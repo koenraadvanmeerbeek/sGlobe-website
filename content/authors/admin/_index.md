@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Koenraad Van Meerbeek
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: KU Leuven
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Global change impacts on biodiversity
+- Conservation ecology
+- Biodiversity & ecosystem functioning
+- Big data analytics
 
 education:
   courses:
@@ -42,18 +40,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.be/citations?user=GMAYeEsAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Koenraad_Meerbeek
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/K_VanMeerbeek
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an ecologist and my personal motivation to do research is to understand the driving forces of biodiversity and contribute to its conservation and restoration. Wity my research group sGlobe, we aim at developing global change-robust solutions for the biodiversity crisis, one of the biggest challenges in the Anthropocene. Our research is based on fieldwork, long-term research platforms, experimental ecology and computational modelling. With these methods, we aim to improve our understanding of the effects of multidirectional global change on biodiversity and the functioning of terrestrial ecosystems. This knowledge will be used to develop future biodiversity conservation strategies. Through teaching, we aim at educating the next generation of policy makers, experts and biodiversity conservation managers, and provide them with the right tools and knowledge to help tackle the biodiversity crisis.
