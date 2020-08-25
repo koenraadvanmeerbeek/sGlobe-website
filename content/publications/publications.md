@@ -3,7 +3,7 @@ Researchers from the sGlobe lab are indicated in bold
 
 #### in press
 
-* 28 - Desie, E., **Van Meerbeek** (*shared first authorship*), K., De Wandeler, H, Bruelheide, H., Domisch, T, Jaroszewicz, B, Joly, F-X., Vancampenhout, K., Vesterdal, L., Muys, B. Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests. Functional Ecology 
+* 28 - Desie, E.*, **Van Meerbeek, K.*** (* *shared first authorship*), De Wandeler, H, Bruelheide, H., Domisch, T, Jaroszewicz, B, Joly, F-X., Vancampenhout, K., Vesterdal, L., Muys, B. Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests. Functional Ecology 
 
 * 27 - Van Cleemput, E., **Van Meerbeek, K.**, Helsen, K., Honnay, O., Somers, B. Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions – A case study covering two functionally different invaders. Biological Invasions
 
