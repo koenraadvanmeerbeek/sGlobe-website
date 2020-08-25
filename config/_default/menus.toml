@@ -10,17 +10,17 @@
 
 [[main]]
   name = "People"
-  url = "#people"
+  url = "content/people/people.md"
   weight = 20
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "content/projects/projects.md"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "content/publication/_index.md"
   weight = 40
 
 [[main]]
@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "content/contact/contact.md"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
