@@ -1,4 +1,4 @@
-### Publications
+# Publications
 Researchers from the sGlobe lab are indicated in bold
 
 #### in press
