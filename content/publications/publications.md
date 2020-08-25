@@ -14,15 +14,6 @@ Moriarity D. P., Horn S. R., Kautz M.M, **Haslbeck J. M. B.** & Alloy L. B. (sub
 
 **Haslbeck J. M. B.** (under review). Estimating Group Differences in Network Models using Moderation Analysis. [[PsyArXiv]](https://psyarxiv.com/926pv)
 
-**Haslbeck J. M. B.**\*,  Ryan O.\*, & Dablander F.\* (under review). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores. [[PsyArXiv]](https://psyarxiv.com/3nxu9)
-
-Robinaugh, D., **Haslbeck J. M. B.**, Ryan, O., Fried, E. I., & Waldorp, L. (under review). Invisible Hands and Fine Calipers: A Call to Use Formal Theory as a Toolkit for Theory Construction. [[PsyArXiv]](https://doi.org/10.31234/osf.io/ugz7y)
-
-Dablander F.\*, Ryan O.\* & **Haslbeck J. M. B.**\* (under review). Choosing between AR(1) and VAR(1) Models in Typical Psychological Applications. [[PsyArXiv]](https://psyarxiv.com/qgewy/)
-
-**Haslbeck J. M. B.**\*, Ryan O.\*, Robinaugh D. J.\*, Waldorp L. J., Borsboom D. (under review). Modeling Psychopathology: From Data Models to Formal Theories. [[PsyArXiv]](https://psyarxiv.com/jgm7f)
-
-Robinaugh, D. J., **Haslbeck J. M. B.**, Waldorp, L. J., Kossakowski, J. J., Fried, E. I., Millner, A., McNally, R. J., van Nes, E. H., Scheffer, M., Kendler, K. S.  & Borsboom, D. (under revision). Advancing the Network Theory of Mental Disorders: A Computational Model of Panic Disorder. [[PsyArXiv]](https://psyarxiv.com/km37w/)
 
 #### Accepted / In press
 
@@ -32,11 +23,7 @@ Robinaugh, D. J., **Haslbeck J. M. B.**, Waldorp, L. J., Kossakowski, J. J., Fri
 
 **Haslbeck J. M. B.**, Wulff. D. U., (2020). Estimating the Number of Clusters via Normalized Cluster Instability. Computational Statistics. [[PDF]](https://rdcu.be/b4gjj)  [[arXiv]](https://arxiv.org/abs/1608.07494)
 
-**Haslbeck J. M. B.**, Waldorp L. J. (2020). mgm: Structure Estimation for Time-Varying Mixed Graphical Models in high-dimensional Data. The Journal of Statistical Software. [[arXiv]](https://arxiv.org/abs/1510.06871) [[Link]](https://www.jstatsoft.org/article/view/v093i08)
 
-**Haslbeck J. M. B.**, Bringmann L. F., & Waldorp, L. J. (2020). A Tutorial on Estimating Time-Varying Vector Autoregressive Models. Multivariate Behavioral Research. [[Link]](https://www.tandfonline.com/doi/full/10.1080/00273171.2020.1743630) [[arXiv]](https://arxiv.org/abs/1711.05204)
-
-**Haslbeck J. M. B.**, Epskamp S. & Marsman M., Waldorp L. J.  (2020). Interpreting the Ising Model: The Input Matters. Multivariate Behavioral Research. [[arXiv]](http://arxiv.org/abs/1811.02916)
 
 #### 2019
 
