@@ -134,7 +134,7 @@ address_format = "en-gb"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false}
+main_menu = {show_logo = true, highlight_active_link = true, show_language = false}
 # Align the main menu to the right of the page? (true/false)
 menu_align_right = true
 
