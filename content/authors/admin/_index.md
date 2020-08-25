@@ -14,7 +14,7 @@ role: Assistant professor
 
 # Organizations/Affiliations
 organizations:
-- name: KU Leuven
+- name: sGlobe lab, KU Leuven
   url: ""
 
 interests:
