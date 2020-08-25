@@ -2,9 +2,10 @@
 Researchers from the sGlobe lab are indicated in bold
 
 #### in press
-28 - Desie, E., **Van Meerbeek** (*shared first authorship*), K., De Wandeler, H, Bruelheide, H., Domisch, T, Jaroszewicz, B, Joly, F-X., Vancampenhout, K., Vesterdal, L., Muys, B. Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests. Functional Ecology 
 
-27 - Van Cleemput, E., **Van Meerbeek, K.**, Helsen, K., Honnay, O., Somers, B. Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions – A case study covering two functionally different invaders. Biological Invasions
+* 28 - Desie, E., **Van Meerbeek** (*shared first authorship*), K., De Wandeler, H, Bruelheide, H., Domisch, T, Jaroszewicz, B, Joly, F-X., Vancampenhout, K., Vesterdal, L., Muys, B. Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests. Functional Ecology 
+
+* 27 - Van Cleemput, E., **Van Meerbeek, K.**, Helsen, K., Honnay, O., Somers, B. Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions – A case study covering two functionally different invaders. Biological Invasions
 
 #### 2020
 26 - Lembrechts, J.J., Aalto, J., Ashcroft, M.B., De Frenne, P, … **Van Meerbeek, K., Haesen, S.**, …, Nijs, I. SoilTemp: a global database of near‐surface temperature. Global Change Biology. [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15123)
