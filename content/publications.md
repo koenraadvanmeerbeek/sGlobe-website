@@ -1,9 +1,3 @@
----
-layout: page
-title: []
-permalink: /papers/
----
-
 \* *shared first authorship*
 
 #### Submitted / under review
