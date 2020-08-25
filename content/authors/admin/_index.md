@@ -46,6 +46,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Koenraad_Meerbeek
+- icon: researcher-id
+  icon_pack: ai
+  link -: https://publons.com/researcher/2300760/koenraad-van-meerbeek/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/K_VanMeerbeek
