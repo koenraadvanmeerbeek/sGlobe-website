@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Join"
-  url = "#join"
+  url = "content/join/join.md"
   weight = 50
 
 [[main]]
