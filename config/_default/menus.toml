@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "People"
-  url = "content/people/people.md"
+  name = "Lab members"
+  url = "content/labmembers/labmembers.md"
   weight = 20
 
 [[main]]
