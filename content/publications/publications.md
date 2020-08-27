@@ -9,11 +9,11 @@ Researchers from the sGlobe lab are indicated in bold
 
 #### 2020
 
-* 26 - Lembrechts, J.J., Aalto, J., Ashcroft, M.B., De Frenne, P, … **Van Meerbeek, K., Haesen, S.**, …, Nijs, I. SoilTemp: a global database of near‐surface temperature. Global Change Biology. [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15123)
+* 26 - Lembrechts, J.J., Aalto, J., Ashcroft, M.B., De Frenne, P, … **Van Meerbeek, K., Haesen, S.**, …, Nijs, I. SoilTemp: a global database of near‐surface temperature. Global Change Biology [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15123)
 
-* 25 - Fremout, T., Thomas, E., Gaisberger, H., **Van Meerbeek, K.**, Muenchow, J., Briers, S., Gutierrez-Miranda, C.E., Marcelo-Pena, J.L., Kindt, R., Atkinson, R., Cabrera, O., Espinosa, C.I., Aguirre-Mendoza, Z., Muys, B. Mapping tree species vulnerability to multiple threats as a guide to restoration and conservation of tropical dry forests. Global Change Biology. 28 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15028)
+* 25 - Fremout, T., Thomas, E., Gaisberger, H., **Van Meerbeek, K.**, Muenchow, J., Briers, S., Gutierrez-Miranda, C.E., Marcelo-Pena, J.L., Kindt, R., Atkinson, R., Cabrera, O., Espinosa, C.I., Aguirre-Mendoza, Z., Muys, B. Mapping tree species vulnerability to multiple threats as a guide to restoration and conservation of tropical dry forests. Global Change Biology, 26 (6), 3552-3568 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15028)
 
-* 24 - Conradi, T., **Van Meerbeek, K.**, Ordonez, A., Svenning, J-C. Biogeographic historical legacies in the net primary productivity of Northern Hemisphere forests. Ecology Letters [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13481)
+* 24 - Conradi, T., **Van Meerbeek, K.**, Ordonez, A., Svenning, J-C. Biogeographic historical legacies in the net primary productivity of Northern Hemisphere forests. Ecology Letters, 23 (5), 800-810 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13481)
 
 * 23 - Kattge, J, …, **Van Meerbeek, K.**, et al. TRY plant trait database - enhanced coverage and open access. Global Change Biology, 26 (1), 119-188 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14904)
 
@@ -21,11 +21,11 @@ Researchers from the sGlobe lab are indicated in bold
 
 #### 2019
 
-* 21 - **Van Meerbeek K.**, Muys, B., Schowanek, S.D., Svenning, J-C. Reconciling Conflicting Paradigms of Biodiversity Conservation: Human Intervention and Rewilding. Bioscience [[Link]](https://academic.oup.com/bioscience/article/69/12/997/5580749)
+* 21 - **Van Meerbeek K.**, Muys, B., Schowanek, S.D., Svenning, J-C. Reconciling Conflicting Paradigms of Biodiversity Conservation: Human Intervention and Rewilding. Bioscience, 69 (12), 997–1007 [[Link]](https://academic.oup.com/bioscience/article/69/12/997/5580749)
 
-* 20 - Yue, K., Peng, Y., Fornara, D.A., **Van Meerbeek, K.**, Vesterdal, L., Yang, W., Peng, C., Tan, B., Xu, Z., Ni, X., Zhang, L., Wu, F., Svenning, J.-C. Responses of nitrogen concentrations and pools in terrestrial ecosystems to individual and combined effects of multiple global change drivers: a meta-analysis. Global Ecology and Biogeography, 28(5), 690-724 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12884)
+* 20 - Yue, K., Peng, Y., Fornara, D.A., **Van Meerbeek, K.**, Vesterdal, L., Yang, W., Peng, C., Tan, B., Xu, Z., Ni, X., Zhang, L., Wu, F., Svenning, J.-C. Responses of nitrogen concentrations and pools in terrestrial ecosystems to individual and combined effects of multiple global change drivers: a meta-analysis. Global Ecology and Biogeography, 28 (5), 690-724 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12884)
 
-* 19 - **Van Meerbeek K.**, Muys B, Hermy M. Lignocellulosic biomass for bioenergy beyond intensive cropland and forests. Renewable and Sustainable Energy Reviews 102:139-149 [[Link]](https://www.sciencedirect.com/science/article/pii/S1364032118308049)
+* 19 - **Van Meerbeek K.**, Muys B, Hermy M. Lignocellulosic biomass for bioenergy beyond intensive cropland and forests. Renewable and Sustainable Energy Reviews, 102, 139-149 [[Link]](https://www.sciencedirect.com/science/article/pii/S1364032118308049)
 
 #### 2018
 
