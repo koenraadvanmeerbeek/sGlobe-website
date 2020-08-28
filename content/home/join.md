@@ -31,6 +31,6 @@ At the moment, there are no open vacancies at the lab. However, I am always inte
 #### Funding opportunities for Postdocs
 * FWO Postdoctoral fellowships for [junior](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/junior-postdoctoral-fellowship/) or [senior](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/senior-postdoctoral-fellowship/) postdocs (3 years)
 
-* [Postdoctoral mandate tat the KU Leuven](https://www.kuleuven.be/onderzoek/gedocumenteerd/index_en.html#details/fabde6aab3aa854014e53d171eb7f2f32dad349a) (1 year)
+* [Postdoctoral mandate at the KU Leuven](https://www.kuleuven.be/onderzoek/gedocumenteerd/index_en.html#details/fabde6aab3aa854014e53d171eb7f2f32dad349a) (1 year)
 
 * [Marie-Curie individual fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) (1-2 years). KU Leuven organises a master class to support future applicants in the writing process
