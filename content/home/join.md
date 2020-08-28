@@ -21,7 +21,7 @@ subtitle = ""
  css_class = ""
 +++
 
-At the moment, there are no open vacancies at the lab. However, I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [About](/#about) and our [Research projects](/projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship are always welcome to contact me. The different opportunities are listed below.
+At the moment, there are no open vacancies at the lab. However, I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [About](/#about) and our [Research projects](#projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship are always welcome to contact me. The different opportunities are listed below.
 
 #### Funding opportunities for PhD students
 * FWO PhD Fellowship for [fundamental research](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-fundamental-research/) or [strategic basic research](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-strategic-basic-research/) (4 years)
