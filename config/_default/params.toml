@@ -93,7 +93,7 @@ phone = "+32 16 377444 "
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Celestijnenlaan 200E", city = "Leuven", region="", postcode = "3001", country = "Belgium", country_code = "BE"}
+#address = {street = "Celestijnenlaan 200E", city = "Leuven", region="", postcode = "3001", country = "Belgium", country_code = "BE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
