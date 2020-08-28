@@ -17,23 +17,25 @@ organizations:
 - name: sGlobe lab, KU Leuven
   url: ""
 
-interests:
+Research interests:
 - Global change impacts on biodiversity
 - Conservation ecology
 - Biodiversity & ecosystem functioning
+- Climate change
+- Invasive species
 - Big data analytics
 
-education:
+Teaching:
   courses:
-  - course: PhD in Bioscience Engineering
-    institution: KU Leuven
-    year: 2015
-  - course: Msc in Bioscience Engineering
-    institution: KU Leuven
-    year: 2009
-  - course: BSc in Bioscience Engineering
-    institution: KU Leuven
-    year: 2007
+  - course: Ecological Data Collection & Processing
+    institution: Master in Bioscience Engineering, KU Leuven
+    # year: 2015
+  - course: Biodiversity & Ecosystem Services
+    institution: Master in Bioscience Engineering, KU Leuven
+    # year: 2009
+  - course: Ecology
+    institution: Bachelor in Bioscience Engineering, KU Leuven
+    # year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
