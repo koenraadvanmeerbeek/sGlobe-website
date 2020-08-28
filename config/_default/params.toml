@@ -93,8 +93,11 @@ phone = "+32 16 377444 "
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Celestijnenlaan 200E", city = "3001, Leuven, Belgium", postcode = "", country = "Belgium", country_code = "BE"}
+address = {street = "Celestijnenlaan 200E", city = "Leuven", postcode = "3001", country = "Belgium", country_code = "BE"}
 
+# Geographic coordinates
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+coordinates = {latitude = "50.863656", longitude = "4.675785"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -105,14 +108,6 @@ contact_links = [
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
-
-  # Enable Google Maps by entering your API key, latitude, and longitude.
-  #   Get your API key: https://developers.google.com/maps/documentation/javascript/get-api-key
-  #   Get your coords: Right-click place on Google Maps. Select 'What's here?'. At the bottom is a card with the coords.
-  #   Disable Google Maps by clearing all three options to "".
-  google_maps_api_key = "AIzaSyBhyvKEGsGmCI3fi7D12wLwbkglMpLSNaU"
-  latitude = "50.863656"
-longitude = "4.675785"
 
 ############################
 ## Social
