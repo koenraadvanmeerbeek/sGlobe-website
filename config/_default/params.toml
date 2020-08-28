@@ -93,7 +93,7 @@ phone = "+32 16 377444 "
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-#address = {street = "Celestijnenlaan 200E", city = "3001, Leuven, Belgium", postcode = "", country = "Belgium", country_code = "BE"}
+address = {street = "Celestijnenlaan 200E", city = "3001, Leuven, Belgium", postcode = "", country = "Belgium", country_code = "BE"}
 
 
 # Contact links
