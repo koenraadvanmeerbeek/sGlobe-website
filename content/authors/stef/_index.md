@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-# role: PhD student
+ role: cosupervised by Prof. De Frenne
 
 # Organizations/Affiliations
 organizations:
