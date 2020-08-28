@@ -35,7 +35,7 @@ social:
   link: https://www.researchgate.net/profile/Stef_Haesen
 - icon: orcid
   icon_pack: ai
-  link -: https://orcid.org/0000-0002-4491-4213
+  link: https://orcid.org/0000-0002-4491-4213
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HaesenStef
