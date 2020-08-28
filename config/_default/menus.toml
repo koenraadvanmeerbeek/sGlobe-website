@@ -24,7 +24,7 @@
   weight = 40
 
 [[main]]
-  name = "Join"
+  name = "Join the lab"
   url = "#join"
   weight = 50
 
