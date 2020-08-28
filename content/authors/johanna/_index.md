@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-# role: PhD student
+role: supervisor: Prof. Ben Somers
 
 # Organizations/Affiliations
 organizations:
@@ -18,9 +18,9 @@ organizations:
   url: ""
 
 interests:
-* Remote sensing
-* Tropical forests
-* Drought stability
+- Remote sensing
+- Tropical forests
+- Drought stability
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
