@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: supervisor: Prof. Ben Somers
+role: supervised by Prof. Ben Somers
 
 # Organizations/Affiliations
 organizations:
