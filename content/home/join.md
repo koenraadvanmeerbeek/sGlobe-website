@@ -1,4 +1,27 @@
-# Join the lab
++++
+# A Recent Blog Posts section created with the Pages widget.
+# This section displays recent blog posts from `content/post/`.
+
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
+
+title = "Join the lab"
+subtitle = ""
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
+ 
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
 
 At the moment, there are no open vacancies at the lab. However, I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [About](/#about) and our [Research projects](/projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship are always welcome to contact me. The different opportunities are listed below.
 
