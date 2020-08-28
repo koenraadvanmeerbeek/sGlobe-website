@@ -93,7 +93,7 @@ phone = "+32 16 377444 "
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Celestijnenlaan 200E", city = "Leuven", postcode = "3001", country = "Belgium", country_code = "BE"}
+address = {street = "Celestijnenlaan 200E", city = "Leuven", region="", postcode = "3001", country = "Belgium", country_code = "BE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -159,7 +159,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 highlight_superuser = false
 
 # Link authors to their profile page? (true/false)
-link_authors = true
+link_authors = false
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
