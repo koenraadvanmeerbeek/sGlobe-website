@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Recent publications"
-  url = "#recent"
+  name = "Publications"
+  url = "/publicationlist"
   weight = 40
 
 [[main]]
