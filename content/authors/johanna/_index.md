@@ -19,9 +19,7 @@ organizations:
 
 interests:
 * Remote sensing
-
 * Tropical forests
-
 * Drought stability
 
 # Social/Academic Networking
