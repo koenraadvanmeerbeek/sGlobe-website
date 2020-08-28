@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
- role: cosupervised by Dr. Van Mechelen
+role: cosupervised by Dr. Van Mechelen
 
 # Organizations/Affiliations
 organizations:
