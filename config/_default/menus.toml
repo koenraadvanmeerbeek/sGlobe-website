@@ -10,27 +10,27 @@
 
 [[main]]
   name = "Lab members"
-  url = "/labmembers"
+  url = "#labmembers"
   weight = 20
 
 [[main]]
   name = "Projects"
-  url = "/projects"
+  url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "/publications"
+  name = "Recent publications"
+  url = "#recent"
   weight = 40
 
 [[main]]
   name = "Join"
-  url = "/join"
+  url = "#join"
   weight = 50
 
 [[main]]
   name = "Contact"
-  url = "/contact"
+  url = "#contact"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
