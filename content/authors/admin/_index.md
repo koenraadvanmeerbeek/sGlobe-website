@@ -67,8 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
 
 I am an ecologist and my personal motivation to do research is to understand the driving forces of biodiversity and contribute to its conservation and restoration. With my research group sGlobe, we aim at developing global change-robust solutions for the biodiversity crisis, one of the biggest challenges in the Anthropocene. Our research is based on fieldwork, long-term research platforms, experimental ecology and computational modelling. With these methods, we aim to improve our understanding of the effects of multidirectional global change on biodiversity and the functioning of terrestrial ecosystems. This knowledge will be used to develop future biodiversity conservation strategies. Through teaching, we aim at educating the next generation of policy makers, experts and biodiversity conservation managers, and provide them with the right tools and knowledge to help tackle the biodiversity crisis.
