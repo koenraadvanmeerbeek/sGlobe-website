@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-# role: PhD student
+ role: cosupervised by Dr. Van Mechelen
 
 # Organizations/Affiliations
 organizations:
