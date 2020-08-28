@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
- role: cosupervised by Prof. De Frenne
+role: cosupervised by Prof. De Frenne
 
 # Organizations/Affiliations
 organizations:
