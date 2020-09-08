@@ -10,7 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-role: (co)supervised by Prof. Somers and Dr. De Keersmaecker
+role: PhD student
+(co)supervised by Prof. Somers and Dr. De Keersmaecker
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +48,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- PhD students
+#user_groups:
+
 ---
 
