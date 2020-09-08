@@ -10,8 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
-(co)supervised by Prof. Somers and Dr. De Keersmaecker
+role: (co)supervised by Prof. Somers and Dr. De Keersmaecker
 
 # Organizations/Affiliations
 organizations:
