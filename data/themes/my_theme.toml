@@ -1,21 +1,18 @@
 # Theme metadata
-name = "custom"
+name = "Minimal"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#328cc1"
-primary_light = "#328cc1"
-primary_dark = "#DA2536"
+primary = "#2962ff"
 
 # Menu
-menu_primary = "#494949"
-menu_text = "#fff"
-menu_text_active = "#328cc1"
-menu_title = "#fff"
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#2962ff"
+menu_title = "#2b2b2b"
 
-# Backgrounds
-background = "#fff"
-home_section_odd = "#fff"
-home_section_even = "#f7f7f7"
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
