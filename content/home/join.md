@@ -21,7 +21,7 @@ subtitle = ""
  css_class = ""
 +++
 
-At the moment, there are no open vacancies at the lab. However, I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [About](/#about) and our [Research projects](#projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship are always welcome to contact me. The different opportunities are listed below.
+At the moment, there are no open vacancies at the lab. However, I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [About](/#about) and our [Research projects](#projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship, you are always welcome to contact me. The different opportunities are listed below.
 
 #### Funding opportunities for PhD students
 * FWO PhD Fellowship for [fundamental research](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-fundamental-research/) or [strategic basic research](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-strategic-basic-research/) (4 years)
@@ -34,3 +34,12 @@ At the moment, there are no open vacancies at the lab. However, I am always inte
 * [Postdoctoral mandate at the KU Leuven](https://www.kuleuven.be/onderzoek/gedocumenteerd/index_en.html#details/fabde6aab3aa854014e53d171eb7f2f32dad349a) (1 year)
 
 * [Marie-Curie individual fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) (1-2 years). KU Leuven organises a master class to support future applicants in the writing process
+
+### Why choose KU Leuven?
+You'll be part of a unique and stimulating environment to do research. In 2020, KU Leuven is on the 45th place in the [Times Higher Education World University Rankings](https://www.timeshighereducation.com/world-university-rankings/ku-leuven). THE assesses universities on the basis of Teaching, Research, Citations, Industry Income and International Outlook. This year for the first time, KU Leuven is also featured in the THE top 50 of international universities, due in part to the recent influx of foreign students at the university. Since 2016, KU Leuven is heading the Reuters list of Europe's most [innovative universities] (https://www.reuters.com/innovative-universities-2019). The Reuters ranking is based on various parameters that map the research output of the institutions. This includes articles in scientific journals, but also patent applications, with which a university protects and commercialises its research results.
+
+The main campus of the university is situated in Leuven, a place characterized by its beautiful architecture and one of Belgium’s most attractive cities. With almost 50.000 students in a city of 100.000 inhabitants, Leuven has a specific atmosphere that is quite unique in the world. The student dorms, study rooms and lecture halls are spread over and integrated in the city and can be next to a cosy little restaurant or a vibrant student bar. The presence of about 10.000 international students from about 150 different countries and an international meeting centre called Pangaea make it easy to meet people from all over the world!
+
+As a student or researcher at KU Leuven you are in the heart of Europe. Major international cities like London, Paris, Köln and Amsterdam are all less than 2 hours away by train. The nearby international airport (just 15 minutes by train from both our Brussels and Leuven Campus) connects you to the rest of the world. This means international students at KU Leuven have the luxury of not only being able to discover Belgium, but also a whole list of either neighbouring countries in the same amount of time. This is truly Europe at your doorstep.
+
+[More info] (https://www.kuleuven.be/english/why-choose-kuleuven.html)
