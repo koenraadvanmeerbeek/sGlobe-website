@@ -42,4 +42,4 @@ The main campus of the university is situated in Leuven, a place characterized b
 
 As a student or researcher at KU Leuven you are in the heart of Europe. Major international cities like London, Paris, Köln and Amsterdam are all less than 2 hours away by train. The nearby international airport (just 15 minutes by train from both our Brussels and Leuven Campus) connects you to the rest of the world. This means international students at KU Leuven have the luxury of not only being able to discover Belgium, but also a whole list of either neighbouring countries in the same amount of time. This is truly Europe at your doorstep.
 
-[More info] (https://www.kuleuven.be/english/why-choose-kuleuven.html)
+[More info](https://www.kuleuven.be/english/why-choose-kuleuven.html)
