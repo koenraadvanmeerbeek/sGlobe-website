@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Incorporating microclimate into species distribution models"
+title = "Modelling the effects of extreme droughts on forest ecosystem functioning"
 
 # Date this page was created.
 date = 2020-09-21T00:00:00
 
 # Project summary to display on homepage.
-summary = "What forest plants feel: incorporating microclimate into species distribution models"
+# summary = "Modelling the effects of extreme droughts on forest ecosystem functioning – Towards climate smart forestry"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -34,11 +34,12 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  # caption = "Photo by rawpixel on Unsplash"
+   caption = "https://extremeevents.stir.ac.uk/"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-Anthropogenic activities have led to a worldwide decline in biodiversity. Besides the loss of natural habitats and the spread of invasive alien species, climate change has been identified as one of the most important human-induced global drivers of this biodiversity crisis. To quantify and visualize the effects of climate change on biodiversity, species distribution models (SDMs) are a commonly used technique. However, these models use macroclimatic predictors which ignore many climate-forcing processes that operate near the ground surface, at fine spatio-temporal scale (i.e. the microclimate). Yet, these impact the habitat conditions for plant species significantly. Therefore, the overall goal of this PhD project is to develop a microclimate map for Europe in order to evaluate the potential of microclimates to mitigate species loss and extinctions induced by climate change.
+Droughts are becoming more frequent and severe. It is evident that some ecosystems will be negatively impacted by this trend and as a consequence the services they provide could be severely impacted or even interrupted. Therefore it is important to accurately assess the impact drought has had on European forest ecosystems. This information is vital for the subsequent modelling of the impact drought could have in the future. The aim of this research project is to translate the understanding of past and future drought impact on ecosystems into recommendations for the management of European forests that are at risk.
+Researcher: Ward Fonteyn
