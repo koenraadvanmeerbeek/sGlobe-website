@@ -8,6 +8,7 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
+  HUGO_VERSION = "0.74.3"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
