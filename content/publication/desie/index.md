@@ -1,7 +1,9 @@
 ---
 author: admin
 title: Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests
-authors: [Desie, E., Van Meerbeek, K., De Wandeler, H., Bruelheide, H., Domisch, T., Jaroszewicz, B., Joly F.-X., Vancampenhout, K.,  Vesterdal, L., Muys, B.]
+authors:
+- Ellen Desie
+- Koenraad Van Meerbeek
 date: '2020-08-31'
 publication: Functional Ecology
 publlication_types: 2
