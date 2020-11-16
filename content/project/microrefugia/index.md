@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Climate change refugia in Europe"
+title = "Microrefugia for European plant species"
 
 # Date this page was created.
 date = 2020-11-16T00:00:00
