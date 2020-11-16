@@ -13,8 +13,8 @@ superuser: false
 role: PhD student
 # Organizations/Affiliations
 organizations:
-- name: sGlobe lab, KU Leuven
-  url: "cosupervised by Prof. De Frenne"
+- name: cosupervised by Prof. De Frenne
+  url: ""
 
 interests:
 - Microclimate
