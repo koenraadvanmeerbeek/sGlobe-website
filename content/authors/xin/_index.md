@@ -14,7 +14,7 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: sGlobe lab, KU Leuven
+- name:
   url: ""
 
 interests:
