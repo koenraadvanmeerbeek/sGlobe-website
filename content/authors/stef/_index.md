@@ -14,7 +14,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: sGlobe lab, KU Leuven
-  url: ""
+  url: "cosupervised by Prof. De Frenne"
 
 interests:
 - Microclimate
