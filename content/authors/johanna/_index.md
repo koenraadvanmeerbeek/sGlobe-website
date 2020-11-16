@@ -15,7 +15,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: (co)supervised by Prof. Somers & Dr. De Keersmaecker
-  url: "https://www.researchgate.net/profile/Johanna_Van_Passel2"
+  url: ""
 
 interests:
 - Remote sensing
