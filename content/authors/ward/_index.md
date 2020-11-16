@@ -14,7 +14,7 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: sGlobe lab, KU Leuven
+- name: cosupervised by Prof. Muys
   url: ""
 
 interests:
