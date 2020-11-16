@@ -17,9 +17,11 @@ organizations:
   url: ""
 
 interests:
-- Tree species diversity
-- Remote sensing
-- Biogeography
+- biodiversity conservation
+- ecosystem services
+- ecosystem restoration
+- management of protected areas
+- climate change
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
