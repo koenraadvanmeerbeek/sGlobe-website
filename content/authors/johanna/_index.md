@@ -14,8 +14,8 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: sGlobe lab, KU Leuven
-  url: ""
+- name: (co)supervised by Prof. Somers & Dr. De Keersmaecker
+  url: "https://www.researchgate.net/profile/Johanna_Van_Passel2"
 
 interests:
 - Remote sensing
