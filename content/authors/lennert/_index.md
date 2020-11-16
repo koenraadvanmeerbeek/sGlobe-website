@@ -17,9 +17,10 @@ organizations:
   url: ""
 
 interests:
-- Microclimate
-- Biogeography
-- Plant species
+- Landscape Ecology
+- Nature Management
+- Biodiversity & Climate Change
+- Science Communication
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
