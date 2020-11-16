@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Microrefugia in Europe"
+title = "Climate change refugia in Europe"
 
 # Date this page was created.
 date = 2020-11-16T00:00:00
@@ -41,6 +41,6 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-Droughts are becoming more frequent and severe. It is evident that some ecosystems will be negatively impacted by this trend and as a consequence the services they provide could be severely impacted or even interrupted. Therefore it is important to accurately assess the impact drought has had on European forest ecosystems. This information is vital for the subsequent modelling of the impact drought could have in the future. The aim of this research project is to translate the understanding of past and future drought impact on ecosystems into recommendations for the management of European forests that are at risk.
+Global warming is projected to be one of the biggest anthropogenic driver of biodiversity loss in the future. Recently, research suggested that microrefugia could mitigate the loss of species due to climate change. Microrefugia are safe islands of establishment with a microclimate that supports populations of a species beyond the boundaries of its climatic limits. Understanding the functioning of these microrefugia is thus extremely important for the conservation of biodiversity in the future. However, the real-world ability of microrefugia to mitigate climate change effects remains poorly understood. In this project, we will capitalise on recent advances in the field of microecology and use a high-resolution microclimate map of Europe to map and validate climate change refugia on a continental scale.
 
 Researcher: Xiaqu Zhou
