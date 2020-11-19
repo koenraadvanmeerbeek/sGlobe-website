@@ -6,7 +6,7 @@ title = "Stability of the Amazon rainforest"
 date = 2020-10-21T00:00:00
 
 # Project summary to display on homepage.
-summary = "Stability of the Amazonian rainforest to extreme droughts"
+summary = "Stability of the Amazonian rainforest in the face of extreme droughts"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
