@@ -11,17 +11,18 @@ superuser: false
 
 # Role/position
 role: PhD student
+
 # Organizations/Affiliations
 organizations:
 - name: cosupervised by Prof. Somers & Dr. Verbist
   url: ""
 
 interests:
--	Earth Observation
--	Data 
--	Environment
--	Land use change
--	Climate change
+- Earth observation
+- Environment
+- Data
+- Land use change
+- Climate change
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
