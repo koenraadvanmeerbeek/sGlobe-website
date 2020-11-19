@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "What forest plants feel"
+title = "What forest plant species feel"
 
 # Date this page was created.
 date = 2020-09-21T00:00:00
