@@ -6,7 +6,7 @@ title = "Sustainable green roofs in Peru"
 date = 2020-09-21T00:00:00
 
 # Project summary to display on homepage.
-summary = "Nature-based solutions for the design of functional and climate-robust urban green in Peru"
+summary = "Nature-based solutions for the design of functional and climate-robust urban green"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
