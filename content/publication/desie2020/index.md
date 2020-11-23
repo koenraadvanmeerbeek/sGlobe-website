@@ -1,8 +1,16 @@
 ---
 title: "Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests"
 authors:
+- Ellen Desie
 - admin
-- Robert Ford
+- Hans De Wandeler
+- Helge Bruelheide
+- Timo Domisch
+- Bogdan Jaroszewicz
+- Francois-Xavier Joly
+- Karen Vancampenhout
+- Lars Vesterdal
+- Bart Muys
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
