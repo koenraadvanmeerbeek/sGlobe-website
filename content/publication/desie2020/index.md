@@ -11,15 +11,14 @@ authors:
 - Karen Vancampenhout
 - Lars Vesterdal
 - Bart Muys
-
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2020-31-08T00:00:00Z"
+date: "2020-08-31T00:00:00Z"
 doi: "10.1111/1365-2435.13668"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-31-08T00:00:00Z"
+publishDate: "2020-08-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
