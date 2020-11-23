@@ -38,7 +38,7 @@ However, in forests where moisture is not limiting, soil acidity proved an impor
 The activity of burrowing earthworms is pivotal in below‐ground ecosystem functioning of mesic forest soils, impacting litter accumulation and forest floor conditions above‐ground, the pH and nutrient status below‐ground and ultimately their own living conditions. This highlights earthworm bioturbation as a key mechanism for understanding plant–soil interactions in forests.
 
 # Summary. An optional shortened abstract.
-# summary:
+ summary:
 
 tags:
 - Source Themes
