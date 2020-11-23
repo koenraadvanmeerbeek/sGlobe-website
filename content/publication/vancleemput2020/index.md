@@ -26,7 +26,7 @@ publication_short: ""
 abstract: "Worldwide, invasive alien plant species (IAS) threaten the biodiversity and the functioning of ecosystems. Most invasion research so far has focused on the properties underlying species invasiveness and community invasibility, yet IAS impact and the underlying causal pathways remain largely unknown. Here we dealt with this knowledge gap by extending the traditional functional trait framework to spectral data, by using traits estimated from reflectance measurements obtained through proximal field spectroscopy, as a surrogate for conventionally measured traits. We focused on two functionally distinct species that are invasive in Belgium: the annual forb Impatiens glandulifera Royle, and the rhizomatous perennial forb Solidago gigantea Ait. By means of trait-based linear mixed models and structural equation models we studied their impact on six ecosystem functions involved in the cycling of carbon and nutrients, and the mechanisms mediating these changes. Analyses based on either conventionally or optically measured traits revealed similar results: the IAS altered aboveground biomass (decrease and increase under I. glandulifera and S. gigantea respectively), litter stabilization (decrease under both IAS) and soil available phosphorus (increase under both IAS) through mass ratio effects, rather than through decreasing the functional diversity of the community. Whereas S. gigantea did so by shifting the community towards more conservative traits, I. glandulifera achieved this by making the community taller and richer in leaf nutrients. The use of remote sensing through optically measured traits, is not only useful to advance our understanding of the mechanisms and consequences of plant invasion, but may also be valuable to the broader field linking plant community composition to ecosystem functioning. Its potential for studying larger spatial scales over time may contribute to even more comprehensive insights."
 
 # Summary. An optional shortened abstract.
-summary: Functional Ecology
+summary: Biological Invasions
 
 tags:
 - Source Themes
@@ -35,7 +35,6 @@ featured: false
 # links:
 # - name: "Paper"
 #  url: ""
-url_paper: 'https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.13668'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
