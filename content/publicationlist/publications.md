@@ -5,11 +5,11 @@ Researchers from the sGlobe lab are indicated in bold
 
 
 #### 2020
-* 29 - Meeussen, C., Govaert, S., Vanneste, T., **Haesen, S., Van Meerbeek, K.**, Bollmann, K., Brunet, J., Calders, K., Cousins, S.A., Diekmann, M., Graae, B.J., ... and De Frenne, P. Drivers of carbon stocks in forest edges across Europe. Science of The Total Environment [[Link]] (https://doi.org/10.1016/j.scitotenv.2020.143497)
+* 29 - Meeussen, C., Govaert, S., Vanneste, T., **Haesen, S., Van Meerbeek, K.**, Bollmann, K., Brunet, J., Calders, K., Cousins, S.A., Diekmann, M., Graae, B.J., ... and De Frenne, P. Drivers of carbon stocks in forest edges across Europe. Science of The Total Environment [[Link]](https://doi.org/10.1016/j.scitotenv.2020.143497)
 
 * 28 - Desie, E., **Van Meerbeek, K.** (*shared first authorship*), De Wandeler, H, Bruelheide, H., Domisch, T, Jaroszewicz, B, Joly, F-X., Vancampenhout, K., Vesterdal, L., Muys, B. Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests. Functional Ecology [[Link]](https://doi.org/10.1111/1365-2435.13668)
 
-* 27 - Van Cleemput, E., **Van Meerbeek, K.**, Helsen, K., Honnay, O., Somers, B. Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions – A case study covering two functionally different invaders. Biological Invasions, 22, 3533–3550 [[Link]] (https://link.springer.com/article/10.1007/s10530-020-02338-x)
+* 27 - Van Cleemput, E., **Van Meerbeek, K.**, Helsen, K., Honnay, O., Somers, B. Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions – A case study covering two functionally different invaders. Biological Invasions, 22, 3533–3550 [[Link]](https://link.springer.com/article/10.1007/s10530-020-02338-x)
 
 * 26 - Lembrechts, J.J., Aalto, J., Ashcroft, M.B., De Frenne, P, … **Van Meerbeek, K., Haesen, S.**, …, Nijs, I. SoilTemp: a global database of near‐surface temperature. Global Change Biology, 26 (11), 6616-6629 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15123)
 
