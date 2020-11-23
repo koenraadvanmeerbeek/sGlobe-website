@@ -67,6 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-[Check out all publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+Check out all publications[[link]](/publicationlist)
+
+# {{% alert note %}}
+# [Check out all publications]({{< ref "/publication/_index.md" >}}).
+# {{% /alert %}}
