@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-[Check out all publications]({{< ref "/publication/_index.md" >}}).
+[Check out all publications]({{< ref "/publicationlist" >}}).
 {{% /alert %}}
