@@ -1,13 +1,24 @@
 ---
 title: "Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions – A case study covering two functionally different invaders"
 authors:
-
-# author_notes:
-date: "2020-08-27T00:00:00Z"
-doi: ""
+- Ellen Desie
+- admin
+- Hans De Wandeler
+- Helge Bruelheide
+- Timo Domisch
+- Bogdan Jaroszewicz
+- Francois-Xavier Joly
+- Karen Vancampenhout
+- Lars Vesterdal
+- Bart Muys
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2020-08-31T00:00:00Z"
+doi: "10.1111/1365-2435.13668"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-08-27T00:00:00Z"
+publishDate: "2020-08-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +27,13 @@ publishDate: "2020-08-27T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Biological Invasions 22"
+publication: "*Functional Ecology (Early view)"
 publication_short: ""
 
-abstract: Worldwide, invasive alien plant species (IAS) threaten the biodiversity and the functioning of ecosystems. Most invasion research so far has focused on the properties underlying species invasiveness and community invasibility, yet IAS impact and the underlying causal pathways remain largely unknown. Here we dealt with this knowledge gap by extending the traditional functional trait framework to spectral data, by using traits estimated from reflectance measurements obtained through proximal field spectroscopy, as a surrogate for conventionally measured traits. We focused on two functionally distinct species that are invasive in Belgium: the annual forb Impatiens glandulifera Royle, and the rhizomatous perennial forb Solidago gigantea Ait. By means of trait-based linear mixed models and structural equation models we studied their impact on six ecosystem functions involved in the cycling of carbon and nutrients, and the mechanisms mediating these changes. Analyses based on either conventionally or optically measured traits revealed similar results: the IAS altered aboveground biomass (decrease and increase under I. glandulifera and S. gigantea respectively), litter stabilization (decrease under both IAS) and soil available phosphorus (increase under both IAS) through mass ratio effects, rather than through decreasing the functional diversity of the community. Whereas S. gigantea did so by shifting the community towards more conservative traits, I. glandulifera achieved this by making the community taller and richer in leaf nutrients. The use of remote sensing through optically measured traits, is not only useful to advance our understanding of the mechanisms and consequences of plant invasion, but may also be valuable to the broader field linking plant community composition to ecosystem functioning. Its potential for studying larger spatial scales over time may contribute to even more comprehensive insights.
+abstract: In many terrestrial ecosystems, earthworms operate at the interface between plants and soil. As ecosystem engineers, they affect key ecosystem functions such as decomposition, nutrient cycling and bioturbation. Their incidence and abundance depends on several soil properties, yet simultaneously they also impact soil properties themselves. The existence of a positive feedback loop in which earthworm activity maintains their own niche—by promoting turnover rate in the forest floor, thereby increasing topsoil pH and creating suitable living conditions for themselves—has been suggested before, yet lacks supporting evidence. Here we assessed how tree species litter traits relate to such below‐ground interactions in forests across Europe. Specifically, we hypothesized a below‐ground feedback loop between burrowing earthworm biomass, humus form and pH, affected by litter quality. We tested this hypothesis by means of structural equation modelling. Our results demonstrate that litter nutrient concentrations affect both burrowing and litter dwelling earthworm biomass, which in turn directly impacts humus form and indirectly soil pH. At a continental scale, that is, including all edaphic conditions, soil pH did not feed into earthworm biomass nor could we link leaf structural recalcitrance (e.g. lignin) or functional diversity to below‐ground interactions. However, in forests where moisture is not limiting, soil acidity proved an important factor determining the context of below‐ground interactions. Therefore, we were able to confirm the hypothesized feedback loop for forest ecosystems with soil pH ≤ 5. In calcareous and/or periodically dry forests, other factors than soil chemistry and litter quality became determinant for earthworm biomass. The activity of burrowing earthworms is pivotal in below‐ground ecosystem functioning of mesic forest soils, impacting litter accumulation and forest floor conditions above‐ground, the pH and nutrient status below‐ground and ultimately their own living conditions. This highlights earthworm bioturbation as a key mechanism for understanding plant–soil interactions in forests.
 
 # Summary. An optional shortened abstract.
-summary: Biological Invasions
+summary: Functional Ecology
 
 tags:
 - Source Themes
