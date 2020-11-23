@@ -3,7 +3,7 @@ title: "Remotely sensed plant traits can provide insights into ecosystem impacts
 authors:
 - Elisa Van Cleemput
 - admin
-- Kenny Helsen, 
+- Kenny Helsen 
 - Olivier Honnay
 - Ben Somers
 # author_notes:
