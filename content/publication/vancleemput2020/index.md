@@ -7,13 +7,12 @@ authors:
 - Olivier Honnay
 - Ben Somers
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2020-08-31T00:00:00Z"
-doi: "10.1111/1365-2435.13668"
+doi: "s10530-020-02338-x"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-08-31T00:00:00Z"
+publishDate: "2020-08-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +21,7 @@ publishDate: "2020-08-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Functional Ecology (Early view)"
+publication: "*Biological Invasions"
 publication_short: ""
 
 abstract: In many terrestrial ecosystems, earthworms operate at the interface between plants and soil. As ecosystem engineers, they affect key ecosystem functions such as decomposition, nutrient cycling and bioturbation. Their incidence and abundance depends on several soil properties, yet simultaneously they also impact soil properties themselves. The existence of a positive feedback loop in which earthworm activity maintains their own niche—by promoting turnover rate in the forest floor, thereby increasing topsoil pH and creating suitable living conditions for themselves—has been suggested before, yet lacks supporting evidence. Here we assessed how tree species litter traits relate to such below‐ground interactions in forests across Europe. Specifically, we hypothesized a below‐ground feedback loop between burrowing earthworm biomass, humus form and pH, affected by litter quality. We tested this hypothesis by means of structural equation modelling. Our results demonstrate that litter nutrient concentrations affect both burrowing and litter dwelling earthworm biomass, which in turn directly impacts humus form and indirectly soil pH. At a continental scale, that is, including all edaphic conditions, soil pH did not feed into earthworm biomass nor could we link leaf structural recalcitrance (e.g. lignin) or functional diversity to below‐ground interactions. However, in forests where moisture is not limiting, soil acidity proved an important factor determining the context of below‐ground interactions. Therefore, we were able to confirm the hypothesized feedback loop for forest ecosystems with soil pH ≤ 5. In calcareous and/or periodically dry forests, other factors than soil chemistry and litter quality became determinant for earthworm biomass. The activity of burrowing earthworms is pivotal in below‐ground ecosystem functioning of mesic forest soils, impacting litter accumulation and forest floor conditions above‐ground, the pH and nutrient status below‐ground and ultimately their own living conditions. This highlights earthworm bioturbation as a key mechanism for understanding plant–soil interactions in forests.
