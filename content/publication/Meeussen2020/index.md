@@ -41,7 +41,7 @@ summary: "Science of the Total Environment"
 
 # links:
 # - name: "Paper"
-# url: 'https://www.sciencedirect.com/science/article/pii/S0048969720370285'
+url: 'https://www.sciencedirect.com/science/article/pii/S0048969720370285'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
