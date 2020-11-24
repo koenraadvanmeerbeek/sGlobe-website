@@ -1,16 +1,11 @@
 ---
-title: "Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests2"
+title: "Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions – A case study covering two functionally different invaders"
 authors:
-- Ellen Desie
+- Elisa Van Cleemput
 - admin
-- Hans De Wandeler
-- Helge Bruelheide
-- Timo Domisch
-- Bogdan Jaroszewicz
-- Francois-Xavier Joly
-- Karen Vancampenhout
-- Lars Vesterdal
-- Bart Muys
+- Kenny Helsen
+- Olivier Honnay
+- Ben Somers
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
