@@ -28,14 +28,13 @@ abstract: "Worldwide, invasive alien plant species (IAS) threaten the biodiversi
 # Summary. An optional shortened abstract.
 summary: "Biological Invasions"
 
-tags:
-- Source Themes
-featured: false
+#tags:
+#- Source Themes
+#featured: false
 
 # links:
 # - name: "Paper"
-#  url: ""
-url_paper: 'https://link.springer.com/article/10.1007/s10530-020-02338-x'
+#  url: "https://link.springer.com/article/10.1007/s10530-020-02338-x"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
