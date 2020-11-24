@@ -6,9 +6,7 @@ authors:
 - Kenny Helsen
 - Olivier Honnay
 - Ben Somers
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2020-08-31T00:00:00Z"
 # doi: ""
 
