@@ -1,11 +1,11 @@
 ---
 title: "Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions – A case study covering two functionally different invaders"
 authors:
-- Elisa Van Cleemput
-- admin
-- Kenny Helsen
-- Olivier Honnay
-- Ben Somers
+- Van Cleemput, E.
+- Van Meerbeek, K.
+- Helsen, K.
+- Honnay, O.
+- Somers, B.
 
 date: "2020-08-31T00:00:00Z"
 # doi: ""
@@ -41,7 +41,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://link.springer.com/article/10.1007/s10530-020-02338-x'
+url_source: ''
 url_video: ''
 
 # Featured image
