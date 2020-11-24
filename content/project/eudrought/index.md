@@ -43,4 +43,4 @@ url_code = ""
 
 Droughts are becoming more frequent and severe. It is evident that some ecosystems will be negatively impacted by this trend and as a consequence the services they provide could be severely impacted or even interrupted. Therefore it is important to accurately assess the impact drought has had on European forest ecosystems. This information is vital for the subsequent modelling of the impact drought could have in the future. The aim of this research project is to translate the understanding of past and future drought impact on ecosystems into recommendations for the management of European forests that are at risk.
 
-Researcher: Ward Fonteyn
+Researcher: [Ward Fonteyn](/author/ward-fonteyn/)
