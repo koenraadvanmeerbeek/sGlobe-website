@@ -4,8 +4,8 @@ authors:
 - Meeussen, C.
 - Govaert, S.
 - Vanneste, T.
-- Haesen, S.
-- Van Meerbeek, K.
+- **Haesen, S.**
+- **Van Meerbeek, K.**
 - Bollmann, K.
 - Brunet, J.
 - Calders, K.
@@ -41,7 +41,7 @@ summary: "Science of the Total Environment, 2020"
 
 # links:
 name: "Meeussen et al, 2020"
-url_link: 'https://www.sciencedirect.com/science/article/pii/S0048969720370285'
+url: 'https://www.sciencedirect.com/science/article/pii/S0048969720370285'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
