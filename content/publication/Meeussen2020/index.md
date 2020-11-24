@@ -33,14 +33,14 @@ publication_short: ""
 
 abstract: "Forests play a key role in global carbon cycling and sequestration. However, the potential for carbon drawdown is affected by forest fragmentation and resulting changes in microclimate, nutrient inputs, disturbance and productivity near edges. Up to 20% of the global forested area lies within 100 m of an edge and, even in temperate forests, knowledge on how edge conditions affect carbon stocks and how far this influence penetrates into forest interiors is scarce. Here we studied carbon stocks in the aboveground biomass, forest floor and the mineral topsoil in 225 plots in deciduous forest edges across Europe and tested the impact of macroclimate, nitrogen deposition and smaller-grained drivers (e.g. microclimate) on these stocks. Total carbon and carbon in the aboveground biomass stock were on average 39% and 95% higher at the forest edge than 100 m into the interior. The increase in the aboveground biomass stock close to the edge was mainly related to enhanced nitrogen deposition. No edge influence was found for stocks in the mineral topsoil. Edge-to-interior gradients in forest floor carbon changed across latitudes: carbon stocks in the forest floor were higher near the edge in southern Europe. Forest floor carbon decreased with increasing litter quality (i.e. high decomposition rate) and decreasing plant area index, whereas higher soil temperatures negatively affected the mineral topsoil carbon. Based on high-resolution forest fragmentation maps, we estimate that the additional carbon stored in deciduous forest edges across Europe amounts to not less than 183 Tg carbon, which is equivalent to the storage capacity of 1 million ha of additional forest. This study underpins the importance of including edge influences when quantifying the carbon stocks in temperate forests and stresses the importance of preserving natural forest edges and small forest patches with a high edge-to-interior surface area."
 # Summary. An optional shortened abstract.
-summary: "Science of the Total Environment"
+summary: "Science of the Total Environment, 2020"
 
 #tags:
 #- Source Themes
 #featured: false
 
 # links:
-# - name: "Paper"
+name: "Meeussen et al, 2020"
 url_link: 'https://www.sciencedirect.com/science/article/pii/S0048969720370285'
 url_pdf: ''
 url_code: ''
