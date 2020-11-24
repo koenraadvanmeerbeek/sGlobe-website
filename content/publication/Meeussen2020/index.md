@@ -4,8 +4,8 @@ authors:
 - Meeussen, C.
 - Govaert, S.
 - Vanneste, T.
-- **Haesen, S.**
-- **Van Meerbeek, K.**
+- Haesen, S.
+- Van Meerbeek, K.
 - Bollmann, K.
 - Brunet, J.
 - Calders, K.
