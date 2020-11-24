@@ -34,7 +34,7 @@ summary: "Biological Invasions"
 
 # links:
 # - name: "Paper"
-#  url: "https://link.springer.com/article/10.1007/s10530-020-02338-x"
+url: "https://link.springer.com/article/10.1007/s10530-020-02338-x"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
