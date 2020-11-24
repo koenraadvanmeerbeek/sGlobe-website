@@ -4,7 +4,7 @@ title: Julie Bauwens
 
 # Username (this should match the folder name)
 authors:
-- vito
+- julie
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,9 +17,11 @@ organizations:
   url: ""
 
 interests:
-- Climate change effects
-- Biodiversity conservation
-- Plant species
+- Biodiversity
+- Ecosystem services
+- Climate change &  impact 
+- Resource recovery
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
