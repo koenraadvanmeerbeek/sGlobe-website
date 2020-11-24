@@ -43,4 +43,4 @@ url_code = ""
 
 Global warming is projected to be one of the biggest anthropogenic driver of biodiversity loss in the future. Recently, research suggested that microrefugia could mitigate the loss of species due to climate change. Microrefugia are safe islands of establishment with a microclimate that supports populations of a species beyond the boundaries of its climatic limits. Understanding the functioning of these microrefugia is thus extremely important for the conservation of biodiversity in the future. However, the real-world ability of microrefugia to mitigate climate change effects remains poorly understood. In this project, we will capitalise on recent advances in the field of microecology and use a high-resolution microclimate map of Europe to map and validate climate change refugia on a continental scale.
 
-Researcher: Xiaqu Zhou
+Researcher: [Xiaqu Zhou](/author/xiaqu-zhou/)
