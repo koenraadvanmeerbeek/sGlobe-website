@@ -6,7 +6,7 @@ title = "Tipping points in southern Africa"
 date = 2020-10-21T00:00:00
 
 # Project summary to display on homepage.
-summary = "Stuying ecosystem health and functioning with remote sensing"
+summary = "Studying ecosystem health and functioning using remote sensing"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
