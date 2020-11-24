@@ -43,4 +43,4 @@ url_code = ""
 
 Anthropogenic activities have led to a worldwide decline in biodiversity. Besides the loss of natural habitats and the spread of invasive alien species, climate change has been identified as one of the most important human-induced global drivers of this biodiversity crisis. To quantify and visualize the effects of climate change on biodiversity, species distribution models (SDMs) are a commonly used technique. However, these models use macroclimatic predictors which ignore many climate-forcing processes that operate near the ground surface, at fine spatio-temporal scale (i.e. the microclimate). Yet, these impact the habitat conditions for plant species significantly. Therefore, the overall goal of this PhD project is to develop a microclimate map for Europe in order to evaluate the potential of microclimates to mitigate species loss and extinctions induced by climate change.
 
-Researcher: Stef Haesen
+Researcher: [Stef Haesen](/author/stef-haesen/)
