@@ -42,4 +42,4 @@ url_code = ""
 +++
 
 The goal of this research project is to design functional and climate-robust urban green systems in Peru by applying the habitat template concept: We will search for potential extensive green roof plant species in the naturally occurring vegetation along the coast and inter-Andean areas of Peru. Additionally, the project will experimentally assess the performance of the plant species in a varied range of green roof systems. Finally, by developing a species distribution model this study will determine whether or not this vegetation is able to persist under future 'climate change' conditions.
-Researcher: Sofia Flores
+Researcher: [Sofia Flores](/author/sofia-flores/)
