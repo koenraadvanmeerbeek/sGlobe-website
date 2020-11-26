@@ -17,9 +17,10 @@ organizations:
   url: ""
 
 interests:
-- Urban ecology
-- Urban green
-- Climate change adaptation
+- urban ecology
+- species distribution modelling
+- pedology
+- climate change adaptation
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
