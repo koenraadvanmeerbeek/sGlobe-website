@@ -5,13 +5,15 @@ Researchers from the sGlobe lab are indicated in bold
 
 
 #### 2020
-* 29 - Meeussen, C., Govaert, S., Vanneste, T., **Haesen, S., Van Meerbeek, K.**, Bollmann, K., Brunet, J., Calders, K., Cousins, S.A., Diekmann, M., Graae, B.J., ... and De Frenne, P. Drivers of carbon stocks in forest edges across Europe. Science of The Total Environment [[Link]](https://doi.org/10.1016/j.scitotenv.2020.143497)
+* 30 - Meeussen, C., Govaert, S., Vanneste, T., **Haesen, S., Van Meerbeek, K.**, Bollmann, K., Brunet, J., Calders, K., Cousins, S.A., Diekmann, M., Graae, B.J., ... and De Frenne, P. Drivers of carbon stocks in forest edges across Europe. Science of The Total Environment [[Link]](https://doi.org/10.1016/j.scitotenv.2020.143497)
 
-* 28 - Desie, E., **Van Meerbeek, K.** (*shared first authorship*), De Wandeler, H, Bruelheide, H., Domisch, T, Jaroszewicz, B, Joly, F-X., Vancampenhout, K., Vesterdal, L., Muys, B. Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests. Functional Ecology [[Link]](https://doi.org/10.1111/1365-2435.13668)
+* 29 - Desie, E., **Van Meerbeek, K.** (*shared first authorship*), De Wandeler, H, Bruelheide, H., Domisch, T, Jaroszewicz, B, Joly, F-X., Vancampenhout, K., Vesterdal, L., Muys, B. Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests. Functional Ecology [[Link]](https://doi.org/10.1111/1365-2435.13668)
 
-* 27 - Van Cleemput, E., **Van Meerbeek, K.**, Helsen, K., Honnay, O., Somers, B. Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions – A case study covering two functionally different invaders. Biological Invasions, 22, 3533–3550 [[Link]](https://link.springer.com/article/10.1007/s10530-020-02338-x)
+* 28 - Van Cleemput, E., **Van Meerbeek, K.**, Helsen, K., Honnay, O., Somers, B. Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions – A case study covering two functionally different invaders. Biological Invasions, 22, 3533–3550 [[Link]](https://link.springer.com/article/10.1007/s10530-020-02338-x)
 
-* 26 - Lembrechts, J.J., Aalto, J., Ashcroft, M.B., De Frenne, P, … **Van Meerbeek, K., Haesen, S.**, …, Nijs, I. SoilTemp: a global database of near‐surface temperature. Global Change Biology, 26 (11), 6616-6629 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15123)
+* 27 - Lembrechts, J.J., Aalto, J., Ashcroft, M.B., De Frenne, P, … **Van Meerbeek, K., Haesen, S.**, …, Nijs, I. SoilTemp: a global database of near‐surface temperature. Global Change Biology, 26 (11), 6616-6629 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15123)
+
+* 26 - Yue, K., Jarvie, S., Senior, A.M., **Van Meerbeek, K.**, Peng, Y., Ni, X., Wu, F. and Svenning, J.C., 2020. Changes in plant diversity and its relationship with productivity in response to nitrogen addition, warming and increased rainfall. Oikos, 129 (7), 939-952 [[Link]](https://doi.org/10.1111/oik.07006)
 
 * 25 - Fremout, T., Thomas, E., Gaisberger, H., **Van Meerbeek, K.**, Muenchow, J., Briers, S., Gutierrez-Miranda, C.E., Marcelo-Pena, J.L., Kindt, R., Atkinson, R., Cabrera, O., Espinosa, C.I., Aguirre-Mendoza, Z., Muys, B. Mapping tree species vulnerability to multiple threats as a guide to restoration and conservation of tropical dry forests. Global Change Biology, 26 (6), 3552-3568 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15028)
 
