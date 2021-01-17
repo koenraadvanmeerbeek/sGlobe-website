@@ -23,7 +23,7 @@ height = "calc(100vh - 70px)"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
-  overlay_img = "2020-05-01 15.01.16.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "websitefron1.jpg"  # Image path relative to your `static/media/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
