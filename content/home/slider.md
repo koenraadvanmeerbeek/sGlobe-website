@@ -1,28 +1,23 @@
----
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
++++
+widget = "blank"
+active = true
+headless = true
+weight = 1
 
-# Activate this widget? true/false
-active: true
+[design]
+columns = "1"
 
-# This file represents a page section.
-headless: true
+  [design.background]
+  image = "16.jpg"
+  image_darken = 0
+  image_parallax = false
+  image_position = "center"
+  image_size = "cover"
+  text_color_light = true
 
-# Order that this section appears on the page.
-weight: 1
+  [design.spacing]
+  padding = [ "20px", "0", "20px", "0" ]
 
-design:
-  columns: "1"
-  background:
-    image: 2020-05-01 15.01.16.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
-advanced:
-  css_class: fullscreen
----
+[advanced]
+css_class = "fullscreen"
++++
