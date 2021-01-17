@@ -15,7 +15,7 @@ weight: 1
 design:
   columns: "1"
   background:
-    image: websitefron2.jpg
+    image: 2020-05-01 15.01.16.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
