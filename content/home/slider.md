@@ -20,4 +20,5 @@ columns = "1"
 
 [advanced]
 css_class = "fullscreen"
+
 +++
