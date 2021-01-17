@@ -34,22 +34,4 @@ height = "calc(100vh - 70px)"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
-[[item]]
-  # title = "Left"
-  # content = "I am left aligned :smile:"
-  align = "center"
-
-  #overlay_color = "#555"  # An HTML color value.
-  overlay_img = "micromapjune.png"  # Image path relative to your `static/media/` folder.
-  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  # title = "Right"
-  # content = "I am right aligned :smile:"
-  align = "center"
-
-  #overlay_color = "#666"  # An HTML color value.
-  overlay_img = "2020-05-20 12.48.58.jpg"  # Image path relative to your `static/media/` folder.
-  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
 +++
