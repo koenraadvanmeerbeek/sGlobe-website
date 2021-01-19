@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role:
+role: Master student
 
 # Organizations/Affiliations
 organizations:
@@ -41,5 +41,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Current members
 ---
