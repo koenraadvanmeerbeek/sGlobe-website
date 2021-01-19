@@ -15,25 +15,6 @@ height = "calc(100vh - 70px)"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
-[[item]]
-  # title = "Hello"
-  # content = "I am center aligned :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  #overlay_color = "#666"  # An HTML color value.
-  overlay_img = "front/logo.png"  # Image path relative to your `static/media/` folder.
-  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "front2.JPG"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   [[item]]
   # title = "Hello"
@@ -42,18 +23,7 @@ height = "calc(100vh - 70px)"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  #overlay_color = "#666"  # An HTML color value.
+  # overlay_color = "#666"  # An HTML color value.
   overlay_img = "front.jpg"  # Image path relative to your `static/media/` folder.
-  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  [[item]]
-  # title = "Hello"
-  # content = "I am center aligned :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  #overlay_color = "#666"  # An HTML color value.
-  overlay_img = "logo.png"  # Image path relative to your `static/media/` folder.
-  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
