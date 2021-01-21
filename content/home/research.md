@@ -23,11 +23,7 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Climate change effects
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Invasive species
+  name: Global change effects
 - description: 10%
   icon: camera-retro
   icon_pack: fas
