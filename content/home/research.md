@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: We aim to study drivers and impact of microclimate conditions on species range dynamics
   icon: MCE
   icon_pack: custom
   name: Microclimate ecology
-- description: 100%
+- description: We aim to improve our understanding of the effects of climate change and invasive species on biodiversity and the functioning of terrestrial ecosystems
   icon: CC
   icon_pack: custom
   name: Global change effects
-- description: testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test 
+- description: We aim at developing global change-robust solutions for the biodiversity crisis, one of the biggest challenges in the Anthropocene. 
   icon: BD
   icon_pack: custom
   name: Biodiversity conservation
