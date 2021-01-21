@@ -17,16 +17,16 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
-  icon_pack: fab
+  icon: MCE
+  icon_pack: custom
   name: Microclimate ecology
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
+  icon: CC
+  icon_pack: custom
   name: Global change effects
 - description: testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test 
-  icon: camera-retro
-  icon_pack: fas
+  icon: BD
+  icon_pack: custom
   name: Biodiversity conservation
 
 # Uncomment to use emoji icons.
