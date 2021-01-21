@@ -19,15 +19,19 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Microclimate ecology
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Climate change effects
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Invasive species
+- description: 10%
+  icon: camera-retro
+  icon_pack: fas
+  name: Biodiversity conservation
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
