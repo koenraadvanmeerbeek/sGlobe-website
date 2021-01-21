@@ -43,6 +43,8 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 
-[design.spacing]
-padding = [ "20px", "0", "20px", "0" ]
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
 ---
