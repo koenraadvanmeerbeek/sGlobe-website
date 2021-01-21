@@ -19,6 +19,9 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+[design.spacing]
+padding = [ "20px", "0", "20px", "0" ]
 +++
 
 At the moment, there are no open vacancies at the lab. However, I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [About](/#about) and our [Research projects](#projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship, you are always welcome to contact me. The different opportunities are listed below.
