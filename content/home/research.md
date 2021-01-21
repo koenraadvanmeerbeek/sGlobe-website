@@ -42,4 +42,7 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+
+[design.spacing]
+padding = [ "20px", "0", "20px", "0" ]
 ---
