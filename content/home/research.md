@@ -24,7 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Global change effects
-- description: 10%
+- description: testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test testteste testtest test test 
   icon: camera-retro
   icon_pack: fas
   name: Biodiversity conservation
