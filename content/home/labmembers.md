@@ -24,6 +24,9 @@ subtitle = ""
   # Show user's interests? (true/false)
   show_interests = false
 
+[design.spacing]
+padding = [ "20px", "0", "20px", "0" ]
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
