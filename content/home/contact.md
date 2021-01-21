@@ -20,4 +20,7 @@ email_form = 0
 # Netlify form settings.
 [netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
+  
+[design.spacing]
+padding = [ "20px", "0", "20px", "0" ]
 +++
