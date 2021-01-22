@@ -16,8 +16,8 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
   [[item]]
-  # title = "Hello"
-  # content = "I am center aligned :smile:"
+  title = "Protecting biodiversity in a changing world"
+  # content = "Protecting biodiversity in a changing world"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
