@@ -24,8 +24,9 @@
 .featurette-icon {
   margin-top: 0;
   margin-bottom: 0;
-  width: 10%;
-  display: none;
+  padding: 0px
+  width: 100%;
+  display: inline-block;
   color: $sta-primary;
   font-size: 9rem;
   text-align: center;
