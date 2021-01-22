@@ -40,7 +40,7 @@ subtitle = ""
   view = 2
 
 [design.spacing]
-padding = [ "20px", "0", "20px", "0" ]
+padding = [ "40px", "0", "30px", "0" ]
 
 [design.background]
   # Apply a background color, gradient, or image.
