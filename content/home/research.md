@@ -36,7 +36,7 @@ feature:
   icon: fieldwork
   icon_pack: custom
   name: Field work
-- description: We fly drones to characterise how ecosystems are responding to rapid environmental change. UAV platforms provide a unique opportunity for acquiring low-cost, high-resolution imagery at a regional scale
+- description: We fly drones to characterise how ecosystems are responding to rapid environmental change. Drones provide a unique opportunity for acquiring low-cost, high-resolution imagery at a regional scale
   icon: drones
   icon_pack: custom
   name: Drones
