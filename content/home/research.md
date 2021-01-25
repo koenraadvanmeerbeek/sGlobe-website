@@ -28,12 +28,12 @@ feature:
   icon: BD
   icon_pack: custom
   name: Biodiversity conservation
-- description: We combine 
+- description: We combine big data with state-of-the-art modelling techniques (machine learning, SDM, SEM, ...) to extract patterns and answer ecological questions on large spatial scales
   icon: ecoinf
   icon_pack: custom
   name: Ecoinformatics
-- description: 
-  icon: fieldwok
+- description: We collect new primary ecological data in the field: species composition, vegetation structure, ecosystem funcions, plant functional traits, ...
+  icon: fieldwork
   icon_pack: custom
   name: Field work
 - description: We fly drones to characterise how ecosystems are responding to rapid environmental change. UAV platforms provide a unique opportunity for acquiring low-cost, high-resolution imagery at a regional scale
