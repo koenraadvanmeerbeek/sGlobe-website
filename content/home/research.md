@@ -20,14 +20,26 @@ feature:
   icon: MCE
   icon_pack: custom
   name: Microclimate ecology
-- description: We aim to improve our understanding of the effects of global change on biodiversity and the functioning of terrestrial ecosystems. We focus on climate change and invasive species, as these are identified as two of the most important anthropogenic drivers of biodiversity loss.
+- description: We aim to improve our understanding of the effects of global change on biodiversity and the functioning of terrestrial ecosystems. We focus on climate change and invasive species, as these are identified as two of the most important anthropogenic drivers of biodiversity loss
   icon: CC
   icon_pack: custom
   name: Global change effects
-- description: Nature conservation is stuck in the detrimental paradigm of preventing community changes under changing conditions. We aim at developing global change-robust solutions for the biodiversity crisis, one of the biggest challenges in the Anthropocene. 
+- description: Nature conservation is stuck in the detrimental paradigm of preventing community changes under changing conditions. We aim at developing global change-robust solutions for the biodiversity crisis, one of the biggest challenges in the Anthropocene
   icon: BD
   icon_pack: custom
   name: Biodiversity conservation
+- description: We combine 
+  icon: ecoinf
+  icon_pack: custom
+  name: Ecoinformatics
+- description: 
+  icon: fieldwok
+  icon_pack: custom
+  name: Field work
+- description: We fly drones to characterise how ecosystems are responding to rapid environmental change. UAV platforms provide a unique opportunity for acquiring low-cost, high-resolution imagery at a regional scale
+  icon: drones
+  icon_pack: custom
+  name: Drones
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
