@@ -23,8 +23,9 @@ subtitle = ""
 [design.spacing]
 padding = [ "20px", "0", "20px", "0" ]
 +++
+I am searching for a postdoc that want to apply for a [***Marie Curie (MSCA) postdoctoral fellowship***](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) to do research about ***"Combining drone imagery and machine learning for ecological modelling"***. If you have experience with drones and are interested in co-developing a MSCA-application, please [contact me](#contact)!
 
-At the moment, there are no open vacancies at the lab. However, I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [About](/#about) and our [Research projects](#projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship, you are always welcome to contact me. The different opportunities are listed below.
+At the moment, there are no open vacancies at the lab. However, I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [Research](/#research) and our [Research projects](#projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship, you are always welcome to contact me. The different opportunities are listed below.
 
 #### Funding opportunities for PhD students
 * FWO PhD Fellowship for [fundamental research](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-fundamental-research/) or [strategic basic research](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-strategic-basic-research/) (4 years)
