@@ -21,7 +21,7 @@ subtitle = ""
  css_class = ""
  
 [design.spacing]
-padding = [ "20px", "0", "20px", "0" ]
+padding = [ "40px", "0", "40px", "0" ]
 +++
 I am searching for a postdoc that want to apply for a [***Marie Curie (MSCA) postdoctoral fellowship***](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) to do research about ***"Combining drone imagery and machine learning for ecological modelling"***. If you have experience with drones and are interested in co-developing a MSCA-application, please [contact me](#contact)!
 
