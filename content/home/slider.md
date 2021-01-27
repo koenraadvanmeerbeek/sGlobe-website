@@ -17,7 +17,7 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
   [[item]]
   title = "Protecting biodiversity in a changing world"
-  # content = "Protecting biodiversity in a changing world"
+  content = "We are looking for a postdoc to apply for a Marie-Curie fellowship about drone-ecology!"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -28,7 +28,7 @@ height = "calc(100vh - 70px)"
 
   [[item]]
   title = "Protecting biodiversity in a changing world"
-  # content = "I am center aligned :smile:"
+  content = "We are looking for a postdoc to apply for a Marie-Curie fellowship about drone-ecology!"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
