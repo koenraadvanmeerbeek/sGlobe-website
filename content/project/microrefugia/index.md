@@ -6,7 +6,7 @@ title = "Microrefugia for European plant species"
 date = 2020-11-16T00:00:00
 
 # Project summary to display on homepage.
-summary = "Identifying and validating climate change refugia in Europe"
+summary = "Identifying and validating climate change refugia for forest plants in Europe"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
