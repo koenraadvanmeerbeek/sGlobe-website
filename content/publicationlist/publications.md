@@ -2,7 +2,7 @@
 Researchers from the sGlobe lab are indicated in bold
 
 #### 2021
-* 32 - **Van Meerbeek, K.**, Jucker, T. and Svenning, J.-C. https://doi.org/10.1111/1365-2745.13651. Journal of Ecology [[Link]](https://doi.org/10.1111/1365-2745.13651)
+* 32 - **Van Meerbeek, K.**, Jucker, T. and Svenning, J-C. https://doi.org/10.1111/1365-2745.13651. Journal of Ecology [[Link]](https://doi.org/10.1111/1365-2745.13651)
 * 31 - Helsen, K, Diekmann, M., Decocq, G., De Pauw, K., Govaert, S., Graae, B.J., Hagenblad, J., Liira, J., Orczewska, A., Sanczuk, P., **Van Meerbeek, K.**, and De Frenne, P. Biological Flora of Central Europe: Impatiens glandulifera Royle. Perspectives in Plant Ecology, Evolution and Systematics [[Link]](https://doi.org/10.1016/j.ppees.2021.125609)
 
 #### 2020
@@ -20,7 +20,7 @@ Researchers from the sGlobe lab are indicated in bold
 
 * 24 - Conradi, T., **Van Meerbeek, K.**, Ordonez, A., Svenning, J-C. Biogeographic historical legacies in the net primary productivity of Northern Hemisphere forests. Ecology Letters, 23 (5), 800-810 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13481)
 
-* 23 - Kattge, J, …, **Van Meerbeek, K.**, et al. TRY plant trait database - enhanced coverage and open access. Global Change Biology, 26 (1), 119-188 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14904)
+* 23 - Kattge, J., …, **Van Meerbeek, K.**, et al. TRY plant trait database - enhanced coverage and open access. Global Change Biology, 26 (1), 119-188 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14904)
 
 * 22 - Desie, E., Vancampenhout, K., Nyssen, B., van den Berg, L., Weijters, M., van Duinen, G.J., den Ouden, J., **Van Meerbeek, K.**, Muys, B. Litter quality and the law of the most limiting: Opportunities for restoring nutrient cycles in acidified forest soils. Science of the Total Environment, 699 [[Link]](https://www.sciencedirect.com/science/article/pii/S0048969719343748)
 
