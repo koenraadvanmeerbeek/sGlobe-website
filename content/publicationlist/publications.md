@@ -1,8 +1,9 @@
-# Publications
+# Peer reviewed publications
 Researchers from the sGlobe lab are indicated in bold
 
 #### 2021
-* 31 - Fišer, Z., Aronne, G., Aavik, T., ... **Van Meerbeek, K.**, ... and Zippel, E. ConservePlants: An integrated approach to conservation of threatened plants for the 21st Century. Research Ideas and Outcomes [[Link]](https://doi.org/10.3897/rio.7.e62810)
+* 32 - **Van Meerbeek, K.**, Jucker, T. and Svenning, J.-C. https://doi.org/10.1111/1365-2745.13651. Journal of Ecology [[Link]](https://doi.org/10.1111/1365-2745.13651)
+* 31 - Helsen, K, Diekmann, M., Decocq, G., De Pauw, K., Govaert, S., Graae, B.J., Hagenblad, J., Liira, J., Orczewska, A., Sanczuk, P., **Van Meerbeek, K.**, and De Frenne, P. Biological Flora of Central Europe: Impatiens glandulifera Royle. Perspectives in Plant Ecology, Evolution and Systematics [[Link]](https://doi.org/10.1016/j.ppees.2021.125609)
 
 #### 2020
 * 30 - Meeussen, C., Govaert, S., Vanneste, T., **Haesen, S., Van Meerbeek, K.**, Bollmann, K., Brunet, J., Calders, K., Cousins, S.A., Diekmann, M., Graae, B.J., ... and De Frenne, P. Drivers of carbon stocks in forest edges across Europe. Science of The Total Environment [[Link]](https://doi.org/10.1016/j.scitotenv.2020.143497)
