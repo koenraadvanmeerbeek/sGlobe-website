@@ -32,7 +32,7 @@ publication_short: ""
 
 abstract: "This paper presents all current knowledge on the biology of the invasive therophyte Impatiens glandulifera Royle (Himalayan Balsam), and covers aspects of taxonomy, morphology, distribution, habitat requirements, ecology, life cycle, genetics, history of invasive spread, ecological impact and management. Although a few review papers have been published on this species in previous decades, a great deal of insights have been gained in the last three decades, owing to the species’ notorious reputation as one of the most problematic invasive species in Europe. This study consequently focusses on this novel information, with a particular focus on information from Central Europe."
 # Summary. An optional shortened abstract.
-summary: Perspectives in Plant Ecology, Evolution and Systematics, 2021"
+summary: Perspectives in Plant Ecology, Evolution and Systematics, 2021
 
 #tags:
 #- Source Themes
