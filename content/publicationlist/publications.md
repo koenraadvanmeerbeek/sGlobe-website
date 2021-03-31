@@ -1,13 +1,15 @@
 # Peer reviewed publications
 Researchers from the sGlobe lab are indicated in bold
 
-#### 2021
-* 32 - **Van Meerbeek, K.**, Jucker, T. and Svenning, J-C. https://doi.org/10.1111/1365-2745.13651. Journal of Ecology [[Link]](https://doi.org/10.1111/1365-2745.13651)
-* 31 - Helsen, K, Diekmann, M., Decocq, G., De Pauw, K., Govaert, S., Graae, B.J., Hagenblad, J., Liira, J., Orczewska, A., Sanczuk, P., **Van Meerbeek, K.**, and De Frenne, P. Biological Flora of Central Europe: Impatiens glandulifera Royle. Perspectives in Plant Ecology, Evolution and Systematics [[Link]](https://doi.org/10.1016/j.ppees.2021.125609)
+#### Accepted
+* 33 - Maclean, I.M.D, Duffy, J.D, **Haesen, S.**, Govaert, S., De Frenne, P., Vanneste, T., Lenoir, J., Lembrechts, J.J., Rhodes, M.W. & **Van Meerbeek, K.** On the measurement of microclimate. Methods in Ecology and Evolution
 
-#### 2020
+#### 2021
+* 32 - **Van Meerbeek, K.**, Jucker, T. and Svenning, J-C. Unifying the concepts of stability and resilience in ecology. Journal of Ecology [[Link]](https://doi.org/10.1111/1365-2745.13651)
+* 31 - Helsen, K, Diekmann, M., Decocq, G., De Pauw, K., Govaert, S., Graae, B.J., Hagenblad, J., Liira, J., Orczewska, A., Sanczuk, P., **Van Meerbeek, K.**, and De Frenne, P. Biological Flora of Central Europe: Impatiens glandulifera Royle. Perspectives in Plant Ecology, Evolution and Systematics [[Link]](https://doi.org/10.1016/j.ppees.2021.125609)
 * 30 - Meeussen, C., Govaert, S., Vanneste, T., **Haesen, S., Van Meerbeek, K.**, Bollmann, K., Brunet, J., Calders, K., Cousins, S.A., Diekmann, M., Graae, B.J., ... and De Frenne, P. Drivers of carbon stocks in forest edges across Europe. Science of The Total Environment [[Link]](https://doi.org/10.1016/j.scitotenv.2020.143497)
 
+#### 2020
 * 29 - Desie, E., **Van Meerbeek, K.** (*shared first authorship*), De Wandeler, H, Bruelheide, H., Domisch, T, Jaroszewicz, B, Joly, F-X., Vancampenhout, K., Vesterdal, L., Muys, B. Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests. Functional Ecology [[Link]](https://doi.org/10.1111/1365-2435.13668)
 
 * 28 - Van Cleemput, E., **Van Meerbeek, K.**, Helsen, K., Honnay, O., Somers, B. Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions – A case study covering two functionally different invaders. Biological Invasions, 22, 3533–3550 [[Link]](https://link.springer.com/article/10.1007/s10530-020-02338-x)
