@@ -23,8 +23,6 @@ subtitle = ""
 [design.spacing]
 padding = [ "40px", "0", "40px", "0" ]
 +++
-I am searching for a postdoc who wants to apply for a ***Marie Curie (MSCA) postdoctoral fellowship*** to do research about ***"Combining drone imagery and machine learning for ecological modelling"***. If you have experience with drones and are interested in co-developing a MSCA-application, please [contact me](#contact)! Check [here](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) for more information about the grant and to see if you are eligible to apply.
-
 At the moment, there are no open vacancies at the lab. However, I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [Research](/#research) and our [Research projects](#projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship, you are always welcome to contact me. The different opportunities are listed below.
 
 #### Funding opportunities for PhD students
