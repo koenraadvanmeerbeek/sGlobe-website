@@ -6,7 +6,7 @@ title = "Invasive trees in southern Africa"
 date = 2020-10-21T00:00:00
 
 # Project summary to display on homepage.
-summary = "Studying impact and land-use vulnerability of invasive tree species"
+summary = "Studying impact and land-use vulnerability of invasive tree species in South-Africa"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
