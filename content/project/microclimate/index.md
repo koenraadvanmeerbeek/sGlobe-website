@@ -6,7 +6,7 @@ title = "What forest plant species feel"
 date = 2020-09-21T00:00:00
 
 # Project summary to display on homepage.
-summary = "Incorporating microclimate into species distribution models"
+summary = "Incorporating microclimate temperature into species distribution models"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
