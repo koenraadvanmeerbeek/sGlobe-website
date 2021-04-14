@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Invasive trees in southern Africa"
+title = "Invasive tree species in South-Africa"
 
 # Date this page was created.
 date = 2020-10-21T00:00:00
