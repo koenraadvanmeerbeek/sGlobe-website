@@ -17,10 +17,10 @@ organizations:
   url: ""
 
 interests:
--	Sustainable diet changes
--	Climate change & impact
--	Landscape Ecology
--	Biodiversity conservation
+- Sustainable diet changes
+- Climate change & impact
+- Landscape Ecology
+- Biodiversity conservation
 
 
 # Social/Academic Networking
