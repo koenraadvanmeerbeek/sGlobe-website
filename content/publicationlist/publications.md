@@ -2,9 +2,10 @@
 Researchers from the sGlobe lab are indicated in bold
 
 #### Accepted
-* 35 - **Jing, X.**, Muys, B., Bruelheide, H., Desie, E., Hattenschwiler, S., Jactel, H., Jaroszewicz, B., Kardol, P., Ratcliffe, S., Scherer-Lorenzen, M., Selvi, F., Vancampenhout, K., van der Plas, F., Verheyen, K., Vesterdal, L., Zuo, J., **Van Meerbeek, K.** Above- and belowground complementarity rather than selection drives tree diversity-productivity relationships in European forests. Functional Ecology
-* 34 - Yue, K., De Frenne, P., Fornara, D., **Van Meerbeek, K.**, Li, W., Peng, X., Ni, X., Peng, Y., Wu, F., Yang, Y., Penuelas, J. Global patterns and drivers of rainfall partitioning by trees and shrubs. Global Change Biology [[Link]](https://doi.org/10.1111/gcb.15644)
-* 33 - Maclean, I.M.D, Duffy, J.D, **Haesen, S.**, Govaert, S., De Frenne, P., Vanneste, T., Lenoir, J., Lembrechts, J.J., Rhodes, M.W. & **Van Meerbeek, K.** On the measurement of microclimate. Methods in Ecology and Evolution
+* 36 - **Jing, X.**, Muys, B., Bruelheide, H., Desie, E., Hattenschwiler, S., Jactel, H., Jaroszewicz, B., Kardol, P., Ratcliffe, S., Scherer-Lorenzen, M., Selvi, F., Vancampenhout, K., van der Plas, F., Verheyen, K., Vesterdal, L., Zuo, J., **Van Meerbeek, K.** Above- and belowground complementarity rather than selection drives tree diversity-productivity relationships in European forests. Functional Ecology
+* 35 - Yue, K., De Frenne, P., Fornara, D., **Van Meerbeek, K.**, Li, W., Peng, X., Ni, X., Peng, Y., Wu, F., Yang, Y., Penuelas, J. Global patterns and drivers of rainfall partitioning by trees and shrubs. Global Change Biology [[Link]](https://doi.org/10.1111/gcb.15644)
+* 34 - Maclean, I.M.D, Duffy, J.D, **Haesen, S.**, Govaert, S., De Frenne, P., Vanneste, T., Lenoir, J., Lembrechts, J.J., Rhodes, M.W. & **Van Meerbeek, K.** On the measurement of microclimate. Methods in Ecology and Evolution
+* 33- Zhang, J., Gillet, F., ... **Van Meerbeek, K.**, ... Dengler, J. How do environmental factors shape the scale dependence of z-values in Palaearctic grasslands? Journal of Vegetation Science
 
 #### 2021
 * 32 - **Van Meerbeek, K.**, Jucker, T. and Svenning, J-C. Unifying the concepts of stability and resilience in ecology. Journal of Ecology [[Link]](https://doi.org/10.1111/1365-2745.13651)
