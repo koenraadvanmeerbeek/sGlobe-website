@@ -37,7 +37,7 @@ summary: "Science of the Total Environment, 2020"
 
 #tags:
 #- Source Themes
-#featured: false
+featured: false
 
 # links:
 name: "Meeussen et al, 2021"
