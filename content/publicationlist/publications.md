@@ -1,15 +1,19 @@
 # Peer reviewed publications
 Researchers from the sGlobe lab are indicated in bold
 
-#### Accepted
-* 36 - **Jing, X.**, Muys, B., Bruelheide, H., Desie, E., Hattenschwiler, S., Jactel, H., Jaroszewicz, B., Kardol, P., Ratcliffe, S., Scherer-Lorenzen, M., Selvi, F., Vancampenhout, K., van der Plas, F., Verheyen, K., Vesterdal, L., Zuo, J., **Van Meerbeek, K.** Above- and belowground complementarity rather than selection drives tree diversity-productivity relationships in European forests. Functional Ecology
-* 35 - Yue, K., De Frenne, P., Fornara, D., **Van Meerbeek, K.**, Li, W., Peng, X., Ni, X., Peng, Y., Wu, F., Yang, Y., Penuelas, J. Global patterns and drivers of rainfall partitioning by trees and shrubs. Global Change Biology [[Link]](https://doi.org/10.1111/gcb.15644)
-* 34 - Maclean, I.M.D, Duffy, J.D, **Haesen, S.**, Govaert, S., De Frenne, P., Vanneste, T., Lenoir, J., Lembrechts, J.J., Rhodes, M.W. & **Van Meerbeek, K.** On the measurement of microclimate. Methods in Ecology and Evolution
-* 33- Zhang, J., Gillet, F., ... **Van Meerbeek, K.**, ... Dengler, J. How do environmental factors shape the scale dependence of z-values in Palaearctic grasslands? Journal of Vegetation Science
-
 #### 2021
+* 36 - **Jing, X.**, Muys, B., Bruelheide, H., Desie, E., Hattenschwiler, S., Jactel, H., Jaroszewicz, B., Kardol, P., Ratcliffe, S., Scherer-Lorenzen, M., Selvi, F., Vancampenhout, K., van der Plas, F., Verheyen, K., Vesterdal, L., Zuo, J., **Van Meerbeek, K.** Above- and belowground complementarity rather than selection drives tree diversity-productivity relationships in European forests. Functional Ecology [[Link]](https://doi.org/10.1111/1365-2435.13825)
+
+* 35 - Yue, K., De Frenne, P., Fornara, D., **Van Meerbeek, K.**, Li, W., Peng, X., Ni, X., Peng, Y., Wu, F., Yang, Y., Penuelas, J. Global patterns and drivers of rainfall partitioning by trees and shrubs. Global Change Biology [[Link]](https://doi.org/10.1111/gcb.15644)
+
+* 34 - Maclean, I.M.D, Duffy, J.D, **Haesen, S.**, Govaert, S., De Frenne, P., Vanneste, T., Lenoir, J., Lembrechts, J.J., Rhodes, M.W. & **Van Meerbeek, K.** On the measurement of microclimate. Methods in Ecology and Evolution  [[Link]](https://doi.org/10.1111/2041-210X.13627)
+
+* 33- Zhang, J., Gillet, F., ... **Van Meerbeek, K.**, ... Dengler, J. How do environmental factors shape the scale dependence of z-values in Palaearctic grasslands? Journal of Vegetation Science [[Link]](https://doi.org/10.1111/jvs.13044)
+
 * 32 - **Van Meerbeek, K.**, Jucker, T. and Svenning, J-C. Unifying the concepts of stability and resilience in ecology. Journal of Ecology [[Link]](https://doi.org/10.1111/1365-2745.13651)
+
 * 31 - Helsen, K, Diekmann, M., Decocq, G., De Pauw, K., Govaert, S., Graae, B.J., Hagenblad, J., Liira, J., Orczewska, A., Sanczuk, P., **Van Meerbeek, K.**, and De Frenne, P. Biological Flora of Central Europe: Impatiens glandulifera Royle. Perspectives in Plant Ecology, Evolution and Systematics [[Link]](https://doi.org/10.1016/j.ppees.2021.125609)
+
 * 30 - Meeussen, C., Govaert, S., Vanneste, T., **Haesen, S., Van Meerbeek, K.**, Bollmann, K., Brunet, J., Calders, K., Cousins, S.A., Diekmann, M., Graae, B.J., ... and De Frenne, P. Drivers of carbon stocks in forest edges across Europe. Science of The Total Environment [[Link]](https://doi.org/10.1016/j.scitotenv.2020.143497)
 
 #### 2020
