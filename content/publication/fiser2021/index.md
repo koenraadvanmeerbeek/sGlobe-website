@@ -33,7 +33,7 @@ summary: "Research Ideas and Outcomes, 2021"
 
 #tags:
 #- Source Themes
-#featured: false
+featured: false
 
 # links:
 name: "Fišer et al, 2021"
