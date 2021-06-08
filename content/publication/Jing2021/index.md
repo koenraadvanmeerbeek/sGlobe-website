@@ -41,7 +41,7 @@ abstract: "1. Biodiversity experiments have identified both complementarity and 
 4. Our results showed that tree species richness–wood production relationships were driven by above- and below-ground complementarity (i.e. canopy packing and rooting depth variability), rather than selection. The proxies for selection were found to have a positive effect on wood production but were not affected by tree species richness.
 5. We concluded that above-ground- but also the largely neglected below-ground complementarity drives biodiversity–productivity relationships in mature forests. Our findings suggest that choosing tree species with complementary above- and below-ground traits should be considered in afforestation and forest management to promote tree diversity and productivity in European forests."
 # Summary. An optional shortened abstract.
-summary: Functional Ecologyn, 2021
+summary: Functional Ecology, 2021
 
 #tags:
 #- Source Themes
