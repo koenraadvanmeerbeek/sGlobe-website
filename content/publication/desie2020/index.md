@@ -37,7 +37,7 @@ summary: "Functional Ecology, 2020"
 
 #tags:
 #- Source Themes
-#featured: false
+featured: false
 
 # links:
 # - name: "Paper"
