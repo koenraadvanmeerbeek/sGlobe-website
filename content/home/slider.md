@@ -15,6 +15,17 @@ height = "calc(100vh - 70px)"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+   [[item]]
+  title = "Protecting biodiversity in a changing world"
+  # content = "We are looking for a postdoc to apply for a Marie-Curie fellowship about drone-ecology!"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  # overlay_color = "#666"  # An HTML color value.
+  overlay_img = "drone.JPG"  # Image path relative to your `static/media/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
   [[item]]
   title = "Protecting biodiversity in a changing world"
   # content = "We are looking for a postdoc to apply for a Marie-Curie fellowship about drone-ecology!"
