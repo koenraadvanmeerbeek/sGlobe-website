@@ -32,7 +32,7 @@ feature:
   icon: ecoinf
   icon_pack: custom
   name: Ecoinformatics
-- description: We collect new primary ecological data in natural and anthropogenic systems; species composition, vegetation structure, ecosystem funcions, plant functional traits, ...
+- description: We collect new primary ecological data in natural and anthropogenic systems; species composition, vegetation structure, ecosystem functions, plant functional traits, ...
   icon: fieldwork
   icon_pack: custom
   name: Field work
