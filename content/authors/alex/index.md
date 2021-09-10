@@ -30,15 +30,36 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=nDalsMgAAAAJ&hl=en&oi=sra
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Alexander-Sentinella
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4662-6418
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ATSentinella
 - icon: envelope
   icon_pack: fas
   link: 'mailto:alex.sentinella@kuleuven.be'
+  
+  social:
+
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Koenraad_Meerbeek
+- icon: orcid
+  icon_pack: ai
+  link -: https://orcid.org/0000-0002-9260-3815
+- icon: twitter
+  icon_pack: fab
+  link: o	https://twitter.com/ATSentinella
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "koenraad.vanmeerbeek@kuleuven.be".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
