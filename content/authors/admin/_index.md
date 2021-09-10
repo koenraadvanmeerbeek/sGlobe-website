@@ -56,7 +56,7 @@ social:
   link: https://twitter.com/K_VanMeerbeek
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "koenraad.vanmeerbeek@kuleuven.be".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
