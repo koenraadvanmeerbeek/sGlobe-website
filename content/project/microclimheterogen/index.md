@@ -6,7 +6,7 @@ title = "Spatial resolution of microclimate heterogeneity"
 date = 2020-10-21T00:00:00
 
 # Project summary to display on homepage.
-summary = "Quantifying how heterogeneity of microclimate varies across small scales using soil temperature data"
+summary = "Study of microclimate heterogeneity across small scales using soil temperature data"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -34,12 +34,12 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-   caption = "googlemaps.com"
+   caption = "Mathew MacQuarrie - Unsplash"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-Environmental temperatures are usually based on data aggregated on coarse 1 x 1 km resolutions. However, we know that temperatures in an environment can vary dramatically over just a few centimetres, sometimes even more than over kilometres. While this heterogeneity in microclimate is beginning to be measured and explored, little is known about how heterogeneity relates to the distance between locations. In this project we use the [SoilTemp](https://soiltemp.weebly.com/) network of soil temperature sensors to quantify the relationship between near-surface temperature differences and the spatial distance separating the sensors.
-Researcher: [Alex Sentinella](/author/alex/)
+Environmental temperatures are usually based on data aggregated on coarse 1 x 1 km² resolutions. However, we know that temperatures in an environment can vary dramatically over just a few metres, sometimes even more than over kilometres. While this heterogeneity in microclimate is beginning to be measured and explored, little is known about how heterogeneity relates to the distance between locations and other environmental drivers. In this project we use the [SoilTemp](https://soiltemp.weebly.com/) network of soil temperature sensors to quantify microclimate heterogeneity and study its drivers.
+Researcher: [Alex Sentinella](/author/alexander-sentinella/)
