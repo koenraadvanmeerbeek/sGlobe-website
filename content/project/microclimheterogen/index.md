@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Spatial resolution of microclimate heterogeneity"
+title = "Quantifying microclimate heterogeneity"
 
 # Date this page was created.
 date = 2020-10-21T00:00:00
