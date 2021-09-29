@@ -11,7 +11,7 @@ comments: false  # Show comments?
 output:
   blogdown::html_page:
     toc: false
-draft: true
+#draft: true
 runtime: shiny
 
 ---
