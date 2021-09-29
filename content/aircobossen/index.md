@@ -1,18 +1,13 @@
 ---
-title: How to embed a Shiny app in blogdown
-author: Antoine Soetewey
-date: '2020-01-07'
-slug: how-to-embed-a-shiny-app-in-blogdown
-categories: []
-tags:
-  - Shiny
-  - Web
-# meta_img: blog/how-to-embed-a-shiny-app-in-a-r-markdown-document_files/shiny-app-in-blogdown.jpeg
-# description: Description for the page.
+title: "Publications"  # Add a page title.
+summary: "Hello!"  # Add a page description.
+date: "2020-08-25"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
+
 output:
   blogdown::html_page:
     toc: false
-# draft: true
+draft: true
 runtime: shiny
 ---
 
