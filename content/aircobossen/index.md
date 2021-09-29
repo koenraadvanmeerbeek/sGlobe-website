@@ -17,4 +17,4 @@ runtime: shiny
 ---
 
 
-<iframe height="800" width="100%" frameborder="no" src="https://stefhaesen.shinyapps.io/airco_bossen/"> </iframe>
+<iframe height="800" width="2000" frameborder="no" src="https://stefhaesen.shinyapps.io/airco_bossen/"> </iframe>
