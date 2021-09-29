@@ -16,10 +16,10 @@ output:
 runtime: shiny
 
 ---
-Opgelet: Het kan even duren vooraleer de kaart laadt!
+***Opgelet: Het kan even duren vooraleer de kaart laadt!
 
-Op warme zomerdagen voelen bossen veel koeler aan dan hun omgeving. Op deze kaart ziet u de de gemiddelde jaartemperatuur in Vlaanderen. Bossen zijn gemiddeld over een jaar bijna 1 graad kouder dan hun omgeving, maar in de zomer kan dit verschil oplopen tot enkele graden. Een groot verschil tijdens hittegolven!
+Op warme zomerdagen voelen bossen veel koeler aan dan hun omgeving. Op deze kaart zie je de gemiddelde jaartemperatuur in Vlaanderen. Met hun blauwe kleur springen de bossen er duidelijk uit, want ze zijn gemiddeld over een jaar bijna 1 graad kouder dan hun omgeving. In de zomer kan dit verschil zelfs oplopen tot enkele graden. Een aangename verfrissing tijdens hittegolven!
 
-U kan inzoomen naar een bepaalde locatie in Vlaanderen of via de zoekbalk (bovenaan links) naar een bepaald adres gaan. 
+U kan inzoomen naar een bepaalde locatie in Vlaanderen of via de zoekbalk (bovenaan links) een adres ingeven. 
 
 <iframe height="1000" width="2500" frameborder="no" src="https://stefhaesen.shinyapps.io/airco_bossen/"> </iframe>
