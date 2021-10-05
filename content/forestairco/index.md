@@ -16,7 +16,7 @@ output:
 runtime: shiny
 
 ---
-**Warning: It can take a while for the page to load!**
+**The app is down due to an overload of visitors. We are trying to put it back online asap**
 
 On a hot summer day, forests can feel a lot cooler than the surrounding area. On the map below, you can see the mean annual temperature in Flanders (Belgium). With their blue colours, forests clearly pop out, because there are on average almost one degree celcius colder than their surroundings. In summer, this difference can go up to several degrees. A real pleasant refreshment during heatwaves!
 
