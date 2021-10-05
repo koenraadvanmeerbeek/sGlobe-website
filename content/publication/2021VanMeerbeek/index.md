@@ -18,7 +18,7 @@ publishDate: "2021-03-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Perspectives in Plant Ecology, Evolution and Systematics"
+publication: "Journal of Ecology"
 publication_short: ""
 
 abstract: "1. Characterizing how ecosystems are responding to rapid environmental change has become a major focus of ecological research. The empirical study of ecological stability, which aims to quantify these ecosystem responses, is therefore more relevant than ever.
