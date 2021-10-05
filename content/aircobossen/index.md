@@ -16,7 +16,7 @@ output:
 runtime: shiny
 
 ---
-**Deze pagina ligt plat door het overweldigende succes. We proberen deze app zo snel mogelijk terug online te krijgen**
+**Opgelet: Het laden van de kaart kan even duren. Als verkeer naar deze site te groot is, dan is het mogelijk dat de site plat ligt.**
 
 Op warme zomerdagen voelen bossen veel koeler aan dan hun omgeving. Op deze kaart zie je de gemiddelde jaartemperatuur in Vlaanderen. Met hun blauwe kleur springen de bossen er duidelijk uit, want ze zijn gemiddeld over een jaar bijna 1 graad kouder dan hun omgeving. In de zomer kan dit verschil zelfs oplopen tot enkele graden. Een aangename verfrissing tijdens hittegolven!
 
