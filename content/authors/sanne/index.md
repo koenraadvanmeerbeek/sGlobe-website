@@ -14,7 +14,7 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: (co)supervised by Prof. Somers & Dr. De Keersmaecker
+- name: (co)supervised by Prof. Muys & Dr. Thomaes
   url: ""
 
 interests:
