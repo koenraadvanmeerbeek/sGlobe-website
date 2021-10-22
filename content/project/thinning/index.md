@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Thinning effects on temperate forests"
+title = "Thinning in temperate forests"
 
 # Date this page was created.
 date = 2020-10-21T00:00:00
