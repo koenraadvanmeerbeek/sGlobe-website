@@ -11,16 +11,17 @@ superuser: false
 
 # Role/position
 role: Postdoc
+
 # Organizations/Affiliations
 organizations:
 - name: Supervised by Prof. Somers
   url: ""
 
 interests:
--	Climate change
--	Tipping points
--	Remote sensing
--	Global change ecology
+- Climate change
+- Tipping points
+- Remote sensing
+- Global change ecology
 
 
 # Social/Academic Networking
