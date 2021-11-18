@@ -2,10 +2,13 @@
 Researchers from the sGlobe lab are indicated in bold
 
 #### 2022
-* 40 - Chi, D., Van Meerbeek, K., Yu, K., Degerickx, J. & Somers, B. (2022). Foliar optical traits capture physiological and phenological leaf plasticity in Tilia × euchlora in the urban environment. Science of The Total Environment, 805, 150219 [[Link]](https://doi.org/10.1016/j.scitotenv.2021.150219)
+* 41 - Watteyn, C., Scaccabarozzi, D., Muys, B., Van Der Schueren, N., **Van Meerbeek, K.**, Guizar Amador, M. F., Ackerman, J. D., Cedeño Fonseca, M. V., Chinchilla Alvarado, I. F., Reubens, B., Pillco Huarcaya, R., Cozzolino, S., & Karremans, A. P. Trick or treat? Pollinator attraction in Vanilla pompona (Orchidaceae). Biotropica, 00, 1– 7. [[Link]](https://doi.org/10.1111/btp.13034)
+
+* 40 - Chi, D., Van Meerbeek, K., Yu, K., Degerickx, J. & Somers, B. Foliar optical traits capture physiological and phenological leaf plasticity in Tilia × euchlora in the urban environment. Science of The Total Environment, 805, 150219 [[Link]](https://doi.org/10.1016/j.scitotenv.2021.150219)
 
 #### 2021
 * 39 - De Lombaerde, E., Vangansbeke, P., Lenoir, J., **Van Meerbeek, K.**, Lembrechts, J., Rodríguez-Sánchez, F., Luoto, M., Scheffers, B., **Haesen, S.**, Aalto, J., Marie Christiansen, D., De Pauw, K., Depauw, L., Govaert, S., Greiser, C., Hampe, A., Hylander, K., Klinges, D., Koelemeijer, I., Meeussen, C., Ogée, J., Sanczuk, P., Vanneste, T., Zellweger, F., Baeten, L., De Frenne, P. Maintaining forest cover to enhance temperature buffering under future climate change, Science of The Total Environment [[Link]](https://doi.org/10.1016/j.scitotenv.2021.151338)
+
 * 38 - **Haesen, S.**, Lembrechts, J. J., De Frenne, P., Lenoir, J., Aalto, J., Ashcroft, M. B., Kopecký, M., Luoto, M., Maclean, I., Nijs, I., Niittynen, P., van den Hoogen, J., Arriga, N., Brůna, J., Buchmann, N., Čiliak, M., Collalti, A., De Lombaerde, E., Descombes, P., … **Van Meerbeek, K.** (2021). ForestTemp – Sub-canopy microclimate temperatures of European forests. Global Change Biology, 00, 1– 13. [[Link]](https://doi.org/10.1111/gcb.15892)
 
 * 37 -  Biurrun, I., Pielech, R., Dembicz, I., Gillet, F., Kozub, Ł., Marcenò, C., Reitalu, T., **Van Meerbeek, K.**, ... & Dengler, J. (2021). Benchmarking plant diversity of Palaearctic grasslands and other open habitats. Journal of Vegetation Science, 32(4), e13050. [[Link]](https://doi.org/10.1111/jvs.13050)
