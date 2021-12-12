@@ -1,10 +1,12 @@
 # Peer reviewed publications
 Researchers from the sGlobe lab are indicated in bold
+### In press
+* 42 - Daelemans, F., Fremout, T., Gowda, B., **Van Meerbeek, K.**, Muys, B. Tempering expectations on a novel biofuel tree: seed and oil yield assessment of pongamia (Millettia pinnata) shows low productivity and high variability. Industrial Crops & Products
 
 #### 2022
 * 41 - Watteyn, C., Scaccabarozzi, D., Muys, B., Van Der Schueren, N., **Van Meerbeek, K.**, Guizar Amador, M. F., Ackerman, J. D., Cedeño Fonseca, M. V., Chinchilla Alvarado, I. F., Reubens, B., Pillco Huarcaya, R., Cozzolino, S., & Karremans, A. P. Trick or treat? Pollinator attraction in Vanilla pompona (Orchidaceae). Biotropica, 00, 1– 7. [[Link]](https://doi.org/10.1111/btp.13034)
 
-* 40 - Chi, D., Van Meerbeek, K., Yu, K., Degerickx, J. & Somers, B. Foliar optical traits capture physiological and phenological leaf plasticity in Tilia × euchlora in the urban environment. Science of The Total Environment, 805, 150219 [[Link]](https://doi.org/10.1016/j.scitotenv.2021.150219)
+* 40 - Chi, D., **Van Meerbeek, K.**, Yu, K., Degerickx, J. & Somers, B. Foliar optical traits capture physiological and phenological leaf plasticity in Tilia × euchlora in the urban environment. Science of The Total Environment, 805, 150219 [[Link]](https://doi.org/10.1016/j.scitotenv.2021.150219)
 
 #### 2021
 * 39 - De Lombaerde, E., Vangansbeke, P., Lenoir, J., **Van Meerbeek, K.**, Lembrechts, J., Rodríguez-Sánchez, F., Luoto, M., Scheffers, B., **Haesen, S.**, Aalto, J., Marie Christiansen, D., De Pauw, K., Depauw, L., Govaert, S., Greiser, C., Hampe, A., Hylander, K., Klinges, D., Koelemeijer, I., Meeussen, C., Ogée, J., Sanczuk, P., Vanneste, T., Zellweger, F., Baeten, L., De Frenne, P. Maintaining forest cover to enhance temperature buffering under future climate change, Science of The Total Environment [[Link]](https://doi.org/10.1016/j.scitotenv.2021.151338)
