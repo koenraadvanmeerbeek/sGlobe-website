@@ -1,6 +1,8 @@
 # Peer reviewed publications
 Researchers from the sGlobe lab are indicated in bold
 #### In press
+* 43 - **Jing, X.**, Muys, B., Baeten, L., Bruelheide, H., De Wandeler, H., Desie, E., Hättenschwiler, S., Jactel, H., Jaroszewicz, B., Jucker, T., Kardol, P., Pollastrini, M., Ratcliffe, S., Scherer-Lorenzen, M., Selvi, F., Vancampenhout, K., van der Plas, F., Verheyen, K., Vesterdal, L., Zuo, J., **Van Meerbeek, K.** Climatic conditions, not above- and belowground resource availability and uptake capacity, mediate tree diversity effects on productivity and stability. Science of the Total Environment
+
 * 42 - Daelemans, F., Fremout, T., Gowda, B., **Van Meerbeek, K.**, Muys, B. Tempering expectations on a novel biofuel tree: seed and oil yield assessment of pongamia (Millettia pinnata) shows low productivity and high variability. Industrial Crops & Products
 
 #### 2022
