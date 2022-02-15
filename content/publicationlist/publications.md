@@ -3,11 +3,11 @@ Researchers from the sGlobe lab are indicated in bold
 #### In press
 * 44 - Sanczuk, P., De Lombaerde, E., **Haesen, S., Van Meerbeek, K.**, Van der Veken, B., Hermy, M., Verheyen, K., Vangansbeke, P., De Frenne P. Species distribution models and a 60-year-old transplant experiment reveal inhibited forest plant range shifts under climate change. Journal of Biogeography
 
-* 43 - Lenoir, J., Gril, E., Durrieu, S., Horen, H., Laslier, M., Lembrechts, J., Zellweger, F., Alleaume, S., Brasseur, B., Buridant, J., Dayal, K., De Frenne, P., Gallet-Moron, E., Marrec, R., Meeussen, C., Rocchini, D., **Van Meerbeek, K.**, Decocq, G. Unveil the unseen: Using LiDAR to capture time-lag dynamics in the herbaceous layer of European temperate forests. Journal of Ecology
-
-* 42 - Daelemans, F., Fremout, T., Gowda, B., **Van Meerbeek, K.**, Muys, B. Tempering expectations on a novel biofuel tree: seed and oil yield assessment of pongamia (Millettia pinnata) shows low productivity and high variability. Industrial Crops & Products
+* 43 - Daelemans, F., Fremout, T., Gowda, B., **Van Meerbeek, K.**, Muys, B. Tempering expectations on a novel biofuel tree: seed and oil yield assessment of pongamia (Millettia pinnata) shows low productivity and high variability. Industrial Crops & Products
 
 #### 2022
+* 42 - Lenoir, J., Gril, E., Durrieu, S., Horen, H., Laslier, M., Lembrechts, J., Zellweger, F., Alleaume, S., Brasseur, B., Buridant, J., Dayal, K., De Frenne, P., Gallet-Moron, E., Marrec, R., Meeussen, C., Rocchini, D., **Van Meerbeek, K.**, Decocq, G. Unveil the unseen: Using LiDAR to capture time-lag dynamics in the herbaceous layer of European temperate forests. Journal of Ecology [[Link]](https://doi.org/10.1111/1365-2745.13837)
+
 * 41 - Lembrechts, J.J., van den Hoogen, J. (*shared first authorship*), Aalto, J., Ashcroft, M.B., De Frenne, P., Kemppinen, J., Kopecký, M., Luoto, M., Maclean, I.M.D, Crowther, T.W., Bailey, J.J., **Haesen, S.**, Klinges, D.H., Niittynen, P., Scheffers, B.R., **Van Meerbeek, K.**, the soilTemp consortium, Nijs, I., Lenoir, J. Global maps of soil temperature. Global Change Biology [[Link]](https://doi.org/10.1111/gcb.16060)
 
 * 40 - **Jing, X.**, Muys, B., Baeten, L., Bruelheide, H., De Wandeler, H., Desie, E., Hättenschwiler, S., Jactel, H., Jaroszewicz, B., Jucker, T., Kardol, P., Pollastrini, M., Ratcliffe, S., Scherer-Lorenzen, M., Selvi, F., Vancampenhout, K., van der Plas, F., Verheyen, K., Vesterdal, L., Zuo, J., **Van Meerbeek, K.** Climatic conditions, not above- and belowground resource availability and uptake capacity, mediate tree diversity effects on productivity and stability. Science of the Total Environment [[Link]](https://doi.org/10.1016/j.scitotenv.2021.152560)
