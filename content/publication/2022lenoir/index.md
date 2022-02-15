@@ -33,7 +33,7 @@ publishDate: "2022-02-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Functional Ecology (Early view)"
+publication: "Journal of Ecology"
 publication_short: ""
 
 abstract: "To understand time-lag dynamics in the response of biodiversity to contemporary environmental changes (e.g. macroclimate warming and atmospheric pollution), we need to consider former anthropogenic forcing factors such as past land uses and management practices that can have both compounding and confounding effects. This is especially true in European temperate forests, where legacies from past human activities have left strong imprints on today’s understorey plant species composition, generating long-term lagging effects which can be mistakenly attributed to more recent macro-environmental changes.
