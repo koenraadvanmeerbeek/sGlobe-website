@@ -13,6 +13,6 @@ Here, [an international team of researchers](https://fleur.ugent.be/) is investi
 
 If you want to get more information or you want to report any damage, please send an e-mail to: koenraad.vanmeerbeek@kuleuven.be
 
-{{< figure library="true" src="cooltree.jpg" title="" >}}
+{{< figure library="true" src="cooltree.png" title="" >}}
 
 Responsibles: Prof. Pieter De Frenne, Prof. Koenraad Van Meerbeek and Dr. Arno Thomaes
