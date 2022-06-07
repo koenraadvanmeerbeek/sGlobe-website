@@ -1,9 +1,13 @@
 # Peer reviewed publications
 Researchers from the sGlobe lab are indicated in bold
 #### In press
+* 47 - Zhao, Z., De Frenne, P., Peñuelas, J., Van Meerbeek, K., Fornara, D.,  Peng, Y., Wu, Q., Ni, X., Wu, F., Yue, K. Effects of snow cover-induced microclimate warming on soil physicochemical and biotic properties. Geoderma
 
+* 46 - Yue, K., De Frenne, P., Van Meerbeek, K., Ferreira, V., Fornara, D., Wu, Q., Ni, X., Peng, Y., Wang, D., Heděnec, P., Yang, Y., Wu, F., Peñuelas, J. Litter quality and stream physicochemical properties drive global invertebrate effects on instream litter decomposition. Biological Reviews
 
 #### 2022
+* 45 - Sanczuk, P., De Lombaerde, E., **Haesen, S., Van Meerbeek, K.**, Luoto, M., Van der Veken, B., Van Beek, E., Hermy, M., Verheyen, K., Vangansbeke, P., De Frenne P. Competition mediates understorey species range shifts under climate change. Journal of Ecology [[Link]]([https://doi.org/10.1111/jbi.14325](https://doi.org/10.1111/1365-2745.13907))
+
 * 44 - Sanczuk, P., De Lombaerde, E., **Haesen, S., Van Meerbeek, K.**, Van der Veken, B., Hermy, M., Verheyen, K., Vangansbeke, P., De Frenne P. Species distribution models and a 60-year-old transplant experiment reveal inhibited forest plant range shifts under climate change. Journal of Biogeography [[Link]](https://doi.org/10.1111/jbi.14325)
 
 * 43 - Daelemans, F., Fremout, T., Gowda, B., **Van Meerbeek, K.**, Muys, B. Tempering expectations on a novel biofuel tree: seed and oil yield assessment of pongamia (Millettia pinnata) shows low productivity and high variability. Industrial Crops & Products [[Link]](https://doi.org/10.1016/j.indcrop.2021.114384)
