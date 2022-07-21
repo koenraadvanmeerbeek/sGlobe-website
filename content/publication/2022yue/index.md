@@ -1,7 +1,7 @@
  ---
 title: "Litter quality and stream physicochemical properties drive global invertebrate effects on instream litter decomposition"
 authors:
--Yue, K.
+- Yue, K.
 - De Frenne, P.
 - Van Meerbeek, K.
 - Ferreira, V.
