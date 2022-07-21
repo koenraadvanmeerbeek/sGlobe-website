@@ -1,9 +1,12 @@
 # Peer reviewed publications
 Researchers from the sGlobe lab are indicated in bold
 #### In press
-* 47 - Yue, K., De Frenne, P., **Van Meerbeek, K.**, Ferreira, V., Fornara, D., Wu, Q., Ni, X., Peng, Y., Wang, D., Heděnec, P., Yang, Y., Wu, F., Peñuelas, J. Litter quality and stream physicochemical properties drive global invertebrate effects on instream litter decomposition. Biological Reviews
 
 #### 2022
+* 48 Van Passel, J., de Keersmaecker, W., Bernardino, P. N., Jing, X., Umlauf, N., Van Meerbeek, K., & Somers, B. (2022). Climatic legacy effects on the drought response of the Amazon rainforest. Global Change Biology [[Link]]([https://doi.org/10.1016/j.geoderma.2022.115983](https://doi.org/10.1111/gcb.16336))
+
+* 47 - Yue, K., De Frenne, P., **Van Meerbeek, K.**, Ferreira, V., Fornara, D., Wu, Q., Ni, X., Peng, Y., Wang, D., Heděnec, P., Yang, Y., Wu, F., Peñuelas, J. Litter quality and stream physicochemical properties drive global invertebrate effects on instream litter decomposition. Biological Reviews [[Link]]( https://doi.org/10.1111/brv.12880)
+ 
 * 46 - Zhao, Z., De Frenne, P., Peñuelas, J., **Van Meerbeek, K.**, Fornara, D.,  Peng, Y., Wu, Q., Ni, X., Wu, F., Yue, K. Effects of snow cover-induced microclimate warming on soil physicochemical and biotic properties. Geoderma [[Link]](https://doi.org/10.1016/j.geoderma.2022.115983)
 
 * 45 - Sanczuk, P., De Lombaerde, E., **Haesen, S., Van Meerbeek, K.**, Luoto, M., Van der Veken, B., Van Beek, E., Hermy, M., Verheyen, K., Vangansbeke, P., De Frenne P. Competition mediates understorey species range shifts under climate change. Journal of Ecology [[Link]](https://doi.org/10.1111/1365-2745.13907)
