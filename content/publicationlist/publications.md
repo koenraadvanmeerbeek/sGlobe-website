@@ -5,7 +5,7 @@ Researchers from the sGlobe lab are indicated in bold
 * 50 - **Flores Vivar, S.**, Van Mechelen, C., Palacios Vallejo, J., **Van Meerbeek, K.** Trends and status of urban green and urban green research in Latin America. Landscape & Urban Planning
 
 #### 2022
-* 49 - Ottoy, S., Tziolas, N., **Van Meerbeek, K.**, Aravidis, I., Tilkin, S., Sismanis, M., Stavrakoudis, D., Gitas, I.Z., Zalidis, G., De Vocht, A. Effects of Flight and Smoothing Parameters on the Detection of Taxus and Olive Trees with UAV-Borne Imagery. Drones, 6, 197. [[Link]](https://doi.org/10.3390/drones6080197)
+* 49 - Ottoy, S., Tziolas, N., **Van Meerbeek, K.**, Aravidis, I., Tilkin, S., Sismanis, M., Stavrakoudis, D., Gitas, I.Z., Zalidis, G., De Vocht, A. Effects of Flight and Smoothing Parameters on the Detection of Taxus and Olive Trees with UAV-Borne Imagery. Drones, 6, 197. [[Link]](https://www.mdpi.com/2504-446X/6/8/197)
 
 * 48 - Van Passel, J., de Keersmaecker, W., Bernardino, P. N., Jing, X., Umlauf, N., **Van Meerbeek, K.**, & Somers, B. Climatic legacy effects on the drought response of the Amazon rainforest. Global Change Biology [[Link]](https://doi.org/10.1111/gcb.16336)
 
