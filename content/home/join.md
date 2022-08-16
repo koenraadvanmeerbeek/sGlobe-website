@@ -24,7 +24,7 @@ subtitle = ""
 padding = [ "40px", "0", "40px", "0" ]
 +++
 #### PhD vacancies in the MICROMICS project
-**We have two PhD vacancies in the framework of the MICROMICS project** ('microclimate- and genomics-informed distribution modelling to improve predictions of species’ range dynamics and extinction risk under environmental change’). The topics of these positions are (click the links to download the vacancy):
+We have two PhD vacancies in the framework of the MICROMICS project ('microclimate- and genomics-informed distribution modelling to improve predictions of species’ range dynamics and extinction risk under environmental change’). The topics of these positions are (click the links to download the vacancy):
 1. {{% staticref "files/Vacancy MICROMICS_sGlobe.pdf" %}}Microclimate Ecology and the Spatial Distributions of Forest Plant Species{{% /staticref %}}
 2. {{% staticref "files/Vacancy MICROMICS_Honnay.pdf" %}}Microclimate Ecology and the Adaptive Potential of Forest Plant Species{{% /staticref %}}
 
