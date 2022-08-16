@@ -27,7 +27,8 @@ padding = [ "40px", "0", "40px", "0" ]
 **We have two PhD vacancies in the framework of the MICROMICS project** ('microclimate- and genomics-informed distribution modelling to improve predictions of species’ range dynamics and extinction risk under environmental change’). The topics of these positions are (click the links to download the vacancy):
 1. {{% staticref "files/Vacancy MICROMICS_sGlobe.pdf" %}}Microclimate Ecology and the Spatial Distributions of Forest Plant Species{{% /staticref %}}
 2. {{% staticref "files/Vacancy MICROMICS_Honnay.pdf" %}}Microclimate Ecology and the Adaptive Potential of Forest Plant Species{{% /staticref %}}
-The deadline for submissions is the 15th of September 2022.
+
+The deadline for applications is the 15th of September 2022.
 
 #### Funding opportunities for PhD students
 I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [Research](/#research) and our [Research projects](#projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship, you are always welcome to contact me. The different opportunities are listed below.
