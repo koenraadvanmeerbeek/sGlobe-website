@@ -2,6 +2,8 @@
 Researchers from the sGlobe lab are indicated in bold
 
 #### In press
+* 51 - He, N., **Yan, P.**, Liu, C., Xu, L., Li, M., **Van Meerbeek, K.**, Zhou, G., Zhou, G., Liu, S., Zhou, X., Li, S., Niu, S., Han, X., Buckley, T.N., Sack, L., Yu, G. Predicting ecosystem productivity based on plant community traits. Trends in Plant Science
+
 * 50 - **Flores Vivar, S.**, Van Mechelen, C., Palacios Vallejo, J., **Van Meerbeek, K.** Trends and status of urban green and urban green research in Latin America. Landscape & Urban Planning
 
 #### 2022
