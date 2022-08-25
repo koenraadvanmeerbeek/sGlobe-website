@@ -13,7 +13,7 @@ authors:
 - De Vocht, A.
 
 date: "2022-08-08T00:00:00Z"
-# doi: ""
+# doi: "https://doi.org/10.3390/drones6080197"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-08T00:00:00Z"
