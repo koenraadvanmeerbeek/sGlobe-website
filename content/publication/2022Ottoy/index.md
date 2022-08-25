@@ -1,5 +1,5 @@
  ---
-title: "Climatic legacy effects on the drought response of the Amazon rainforest"
+title: "Effects of Flight and Smoothing Parameters on the Detection of Taxus and Olive Trees with UAV-Borne Imagery"
 authors:
 - Ottoy, S.
 - Tziolas, N.
