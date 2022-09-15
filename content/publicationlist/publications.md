@@ -2,9 +2,11 @@
 Researchers from the sGlobe lab are indicated in bold
 
 #### In press
-* 51 - He, N., **Yan, P.**, Liu, C., Xu, L., Li, M., **Van Meerbeek, K.**, Zhou, G., Zhou, G., Liu, S., Zhou, X., Li, S., Niu, S., Han, X., Buckley, T.N., Sack, L., Yu, G. Predicting ecosystem productivity based on plant community traits. Trends in Plant Science
+/
 
 #### 2022
+* 51 - He, N., **Yan, P.**, Liu, C., Xu, L., Li, M., **Van Meerbeek, K.**, Zhou, G., Zhou, G., Liu, S., Zhou, X., Li, S., Niu, S., Han, X., Buckley, T.N., Sack, L., Yu, G. Predicting ecosystem productivity based on plant community traits. Trends in Plant Science [[Link]](https://doi.org/10.1016/j.tplants.2022.08.015)
+
 * 50 - **Flores Vivar, S.**, Van Mechelen, C., Palacios Vallejo, J., **Van Meerbeek, K.** Trends and status of urban green and urban green research in Latin America. Landscape & Urban Planning, 277: 104536 [[Link]](https://doi.org/10.1016/j.landurbplan.2022.104536)
 
 * 49 - Ottoy, S., Tziolas, N., **Van Meerbeek, K.**, Aravidis, I., Tilkin, S., Sismanis, M., Stavrakoudis, D., Gitas, I.Z., Zalidis, G., De Vocht, A. Effects of Flight and Smoothing Parameters on the Detection of Taxus and Olive Trees with UAV-Borne Imagery. Drones, 6, 197. [[Link]](https://www.mdpi.com/2504-446X/6/8/197)
