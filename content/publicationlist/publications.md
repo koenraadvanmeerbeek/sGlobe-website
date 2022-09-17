@@ -1,9 +1,6 @@
 # Peer reviewed publications
 Researchers from the sGlobe lab are indicated in bold
 
-#### In press
-/
-
 #### 2022
 * 51 - He, N., **Yan, P.**, Liu, C., Xu, L., Li, M., **Van Meerbeek, K.**, Zhou, G., Zhou, G., Liu, S., Zhou, X., Li, S., Niu, S., Han, X., Buckley, T.N., Sack, L., Yu, G. Predicting ecosystem productivity based on plant community traits. Trends in Plant Science [[Link]](https://doi.org/10.1016/j.tplants.2022.08.015)
 
