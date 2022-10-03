@@ -23,16 +23,9 @@ subtitle = ""
 [design.spacing]
 padding = [ "40px", "0", "40px", "0" ]
 +++
-#### PhD vacancies in the MICROMICS project
-We have two PhD vacancies in the framework of the MICROMICS project ('microclimate- and genomics-informed distribution modelling to improve predictions of species’ range dynamics and extinction risk under environmental change’). The topics of these positions are (click the links to download the vacancy):
-1. {{% staticref "files/Vacancy MICROMICS_sGlobe.pdf" %}}Microclimate Ecology and the Spatial Distributions of Forest Plant Species{{% /staticref %}}
-2. {{% staticref "files/Vacancy MICROMICS_Honnay.pdf" %}}Microclimate Ecology and the Adaptive Potential of Forest Plant Species{{% /staticref %}}
-
-The deadline for applications is the 15th of September 2022.
+There are no vacancies at the moment, but I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [Research](/#research) and our [Research projects](#projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship, you are always welcome to contact me. The different opportunities are listed below.
 
 #### Funding opportunities for PhD students
-I am always interested in hearing from motivated students or researchers to collaborate on topics of mutual interest. Have a look at [Research](/#research) and our [Research projects](#projects) to see what we are doing. So if you are interested in applying for a PhD or postdoc fellowship, you are always welcome to contact me. The different opportunities are listed below.
-
 * FWO PhD Fellowship for [fundamental research](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-fundamental-research/) or [strategic basic research](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-strategic-basic-research/) (4 years)
 
 * [Global Minds fellowship](https://www.kuleuven.be/english/international/development-cooperation/funding-possibilities/research-possibilities/phdcalls/index) (4 years). This is a sandwich fellowship for students from a broad range of developing countries
