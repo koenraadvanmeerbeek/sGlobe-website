@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Large solitary trees as keystone speciess"
+title = "Large solitary trees as key species"
 
 # Date this page was created.
 date = 2022-10-04T00:00:00
