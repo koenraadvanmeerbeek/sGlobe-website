@@ -8,13 +8,13 @@ Researchers from the sGlobe lab are indicated in bold
 
 * 49 - Ottoy, S., Tziolas, N., **Van Meerbeek, K.**, Aravidis, I., Tilkin, S., Sismanis, M., Stavrakoudis, D., Gitas, I.Z., Zalidis, G., De Vocht, A. Effects of Flight and Smoothing Parameters on the Detection of Taxus and Olive Trees with UAV-Borne Imagery. Drones, 6, 197. [[Link]](https://www.mdpi.com/2504-446X/6/8/197)
 
-* 48 - Van Passel, J., de Keersmaecker, W., Bernardino, P. N., Jing, X., Umlauf, N., **Van Meerbeek, K.**, & Somers, B. Climatic legacy effects on the drought response of the Amazon rainforest. Global Change Biology [[Link]](https://doi.org/10.1111/gcb.16336)
+* 48 - Van Passel, J., de Keersmaecker, W., Bernardino, P. N., Jing, X., Umlauf, N., **Van Meerbeek, K.**, & Somers, B. Climatic legacy effects on the drought response of the Amazon rainforest. Global Change Biology, 28(19): 5808-5819 [[Link]](https://doi.org/10.1111/gcb.16336)
 
 * 47 - Yue, K., De Frenne, P., **Van Meerbeek, K.**, Ferreira, V., Fornara, D., Wu, Q., Ni, X., Peng, Y., Wang, D., Heděnec, P., Yang, Y., Wu, F., Peñuelas, J. Litter quality and stream physicochemical properties drive global invertebrate effects on instream litter decomposition. Biological Reviews [[Link]]( https://doi.org/10.1111/brv.12880)
  
 * 46 - Zhao, Z., De Frenne, P., Peñuelas, J., **Van Meerbeek, K.**, Fornara, D.,  Peng, Y., Wu, Q., Ni, X., Wu, F., Yue, K. Effects of snow cover-induced microclimate warming on soil physicochemical and biotic properties. Geoderma, 432: 115983 [[Link]](https://doi.org/10.1016/j.geoderma.2022.115983)
 
-* 45 - Sanczuk, P., De Lombaerde, E., **Haesen, S., Van Meerbeek, K.**, Luoto, M., Van der Veken, B., Van Beek, E., Hermy, M., Verheyen, K., Vangansbeke, P., De Frenne P. Competition mediates understorey species range shifts under climate change. Journal of Ecology [[Link]](https://doi.org/10.1111/1365-2745.13907)
+* 45 - Sanczuk, P., De Lombaerde, E., **Haesen, S., Van Meerbeek, K.**, Luoto, M., Van der Veken, B., Van Beek, E., Hermy, M., Verheyen, K., Vangansbeke, P., De Frenne P. Competition mediates understorey species range shifts under climate change. Journal of Ecology, 110(8): 1813-1825 [[Link]](https://doi.org/10.1111/1365-2745.13907)
 
 * 44 - Sanczuk, P., De Lombaerde, E., **Haesen, S., Van Meerbeek, K.**, Van der Veken, B., Hermy, M., Verheyen, K., Vangansbeke, P., De Frenne P. Species distribution models and a 60-year-old transplant experiment reveal inhibited forest plant range shifts under climate change. Journal of Biogeography, 49: 537–550 [[Link]](https://doi.org/10.1111/jbi.14325)
 
@@ -39,17 +39,17 @@ Researchers from the sGlobe lab are indicated in bold
 
 * 34 - **Jing, X.**, Muys, B., Bruelheide, H., Desie, E., Hattenschwiler, S., Jactel, H., Jaroszewicz, B., Kardol, P., Ratcliffe, S., Scherer-Lorenzen, M., Selvi, F., Vancampenhout, K., van der Plas, F., Verheyen, K., Vesterdal, L., Zuo, J., **Van Meerbeek, K.** Above- and belowground complementarity rather than selection drives tree diversity-productivity relationships in European forests. Functional Ecology, 35(8): 1756-1767 [[Link]](https://doi.org/10.1111/1365-2435.13825)
 
-* 33 - Yue, K., De Frenne, P., Fornara, D., **Van Meerbeek, K.**, Li, W., Peng, X., Ni, X., Peng, Y., Wu, F., Yang, Y., Penuelas, J. Global patterns and drivers of rainfall partitioning by trees and shrubs. Global Change Biology [[Link]](https://doi.org/10.1111/gcb.15644)
+* 33 - Yue, K., De Frenne, P., Fornara, D., **Van Meerbeek, K.**, Li, W., Peng, X., Ni, X., Peng, Y., Wu, F., Yang, Y., Penuelas, J. Global patterns and drivers of rainfall partitioning by trees and shrubs. Global Change Biology, 27(14): 3350-3357 [[Link]](https://doi.org/10.1111/gcb.15644)
 
-* 32 - Maclean, I.M.D, Duffy, J.D, **Haesen, S.**, Govaert, S., De Frenne, P., Vanneste, T., Lenoir, J., Lembrechts, J.J., Rhodes, M.W. & **Van Meerbeek, K.** On the measurement of microclimate. Methods in Ecology and Evolution [[Link]](https://doi.org/10.1111/2041-210X.13627)
+* 32 - Maclean, I.M.D, Duffy, J.D, **Haesen, S.**, Govaert, S., De Frenne, P., Vanneste, T., Lenoir, J., Lembrechts, J.J., Rhodes, M.W. & **Van Meerbeek, K.** On the measurement of microclimate. Methods in Ecology and Evolution, 12(8): 1397-1410 [[Link]](https://doi.org/10.1111/2041-210X.13627)
 
-* 31 - Zhang, J., Gillet, F., ... **Van Meerbeek, K.**, ... Dengler, J. Scale dependence of species–area relationships is widespread but generally weak in Palaearctic grasslands. Journal of Vegetation Science [[Link]](https://doi.org/10.1111/jvs.13044)
+* 31 - Zhang, J., Gillet, F., ... **Van Meerbeek, K.**, ... Dengler, J. Scale dependence of species–area relationships is widespread but generally weak in Palaearctic grasslands. Journal of Vegetation Science, 32(3): e13044 [[Link]](https://doi.org/10.1111/jvs.13044)
 
-* 30 - **Van Meerbeek, K.**, Jucker, T. and Svenning, J-C. Unifying the concepts of stability and resilience in ecology. Journal of Ecology [[Link]](https://doi.org/10.1111/1365-2745.13651)
+* 30 - **Van Meerbeek, K.**, Jucker, T. and Svenning, J-C. Unifying the concepts of stability and resilience in ecology. Journal of Ecology, 190(9): 3114-3132 [[Link]](https://doi.org/10.1111/1365-2745.13651)
 
-* 29 - Helsen, K, Diekmann, M., Decocq, G., De Pauw, K., Govaert, S., Graae, B.J., Hagenblad, J., Liira, J., Orczewska, A., Sanczuk, P., **Van Meerbeek, K.**, and De Frenne, P. Biological Flora of Central Europe: Impatiens glandulifera Royle. Perspectives in Plant Ecology, Evolution and Systematics [[Link]](https://doi.org/10.1016/j.ppees.2021.125609)
+* 29 - Helsen, K, Diekmann, M., Decocq, G., De Pauw, K., Govaert, S., Graae, B.J., Hagenblad, J., Liira, J., Orczewska, A., Sanczuk, P., **Van Meerbeek, K.**, and De Frenne, P. Biological Flora of Central Europe: Impatiens glandulifera Royle. Perspectives in Plant Ecology, Evolution and Systematics, 50: 125609 [[Link]](https://doi.org/10.1016/j.ppees.2021.125609)
 
-* 28 - Meeussen, C., Govaert, S., Vanneste, T., **Haesen, S., Van Meerbeek, K.**, Bollmann, K., Brunet, J., Calders, K., Cousins, S.A., Diekmann, M., Graae, B.J., ... and De Frenne, P. Drivers of carbon stocks in forest edges across Europe. Science of The Total Environment [[Link]](https://doi.org/10.1016/j.scitotenv.2020.143497)
+* 28 - Meeussen, C., Govaert, S., Vanneste, T., **Haesen, S., Van Meerbeek, K.**, Bollmann, K., Brunet, J., Calders, K., Cousins, S.A., Diekmann, M., Graae, B.J., ... and De Frenne, P. Drivers of carbon stocks in forest edges across Europe. Science of The Total Environment, 759: 143497 [[Link]](https://doi.org/10.1016/j.scitotenv.2020.143497)
 
 #### 2020
 * 27 - Desie, E., **Van Meerbeek, K.** (*shared first authorship*), De Wandeler, H, Bruelheide, H., Domisch, T, Jaroszewicz, B, Joly, F-X., Vancampenhout, K., Vesterdal, L., Muys, B. Positive feedback loop between earthworms, humus form and soil pH reinforces earthworm abundance in European forests. Functional Ecology [[Link]](https://doi.org/10.1111/1365-2435.13668)
