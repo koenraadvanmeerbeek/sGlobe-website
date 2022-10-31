@@ -4,7 +4,7 @@ title: Jonas Simons
 
 # Username (this should match the folder name)
 authors:
-- jonas
+- 2022jonas
 
 # Is this the primary user of the site?
 superuser: false
