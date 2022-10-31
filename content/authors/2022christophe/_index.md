@@ -14,7 +14,7 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: (co)supervised by Dr. Hanne De Kort & Dr. Sam Ottoy
+- name: cosupervised by Dr. De Kort & Dr. Ottoy
   url: ""
 
 interests:
