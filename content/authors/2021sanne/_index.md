@@ -4,7 +4,7 @@ title: Sanne Verdonck
 
 # Username (this should match the folder name)
 authors:
-- sanne
+- 2021sanne
 
 # Is this the primary user of the site?
 superuser: false
