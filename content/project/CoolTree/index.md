@@ -42,4 +42,4 @@ url_code = ""
 +++
 
 Large solitary trees (LSTs) are recognised for their ecological significance and disproportionately contribute to biodiversity and ecosystem functioning. In agricultural and urban landscapes, they serve as islands with their own microenvironment: they harbour important parts of local biodiversity, contribute to carbon stocks and nutrient cycling, and cool the local microclimate. LSTs, however, decline across the world due to climate change (warming, droughts and heat waves), pests and pathogens, disturbance, and other causes. The aim of this research project is to study LSTs and their associated biodiversity and functions across Europe, as early warning signals of climate change before they occur elsewhere.
-Researcher: [Karlien Moeys](/author/karlien-moeys/)
+Researchers: [Karlien Moeys](/author/karlien-moeys/) and [Astrid Van den Bossche](/author/astrid-van-den-bossche/)
