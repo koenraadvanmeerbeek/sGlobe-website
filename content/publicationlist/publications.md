@@ -2,11 +2,13 @@
 Researchers from the sGlobe lab are indicated in bold
 
 #### 2022
+* 52 - Desie, E., Zuo, J., Verheyen, K., Djukic, I., **Van Meerbeek, K.**, Auge, H., Barsoum, N., Baum, C., Bruelheide, H., Eisenhauer, N., Feldhaar, H., Ferlian, O., Gravel, D., Jactel, H., Kappel Schmidt, I., Kepfer-Rojas, S., Meredieu, C., Mereu, S., Messier, C., Morillas, L., Nock, C., Paquette, A., Ponette, Q., Reich, P.B., Roales, J., Scherer-Lorenzen, M., Seitz, S., Schmidt, Anja, Stefanski, A., Trogisch, S., Van-Halder, I., Weih, M., Williams, L.J., Yang, B. and Muys, B. Disentangling drivers of litter decomposition in a multi-continent network of tree diversity experiments. Science of The Total Environment, 873: 159717 [[Link]](https://doi.org/10.1016/j.scitotenv.2022.159717)
+* 
 * 51 - He, N., **Yan, P.**, Liu, C., Xu, L., Li, M., **Van Meerbeek, K.**, Zhou, G., Zhou, G., Liu, S., Zhou, X., Li, S., Niu, S., Han, X., Buckley, T.N., Sack, L., Yu, G. Predicting ecosystem productivity based on plant community traits. Trends in Plant Science [[Link]](https://doi.org/10.1016/j.tplants.2022.08.015)
 
 * 50 - **Flores Vivar, S.**, Van Mechelen, C., Palacios Vallejo, J., **Van Meerbeek, K.** Trends and status of urban green and urban green research in Latin America. Landscape & Urban Planning, 277: 104536 [[Link]](https://doi.org/10.1016/j.landurbplan.2022.104536)
 
-* 49 - Ottoy, S., Tziolas, N., **Van Meerbeek, K.**, Aravidis, I., Tilkin, S., Sismanis, M., Stavrakoudis, D., Gitas, I.Z., Zalidis, G., De Vocht, A. Effects of Flight and Smoothing Parameters on the Detection of Taxus and Olive Trees with UAV-Borne Imagery. Drones, 6, 197. [[Link]](https://www.mdpi.com/2504-446X/6/8/197)
+* 49 - Ottoy, S., Tziolas, N., **Van Meerbeek, K.**, Aravidis, I., Tilkin, S., Sismanis, M., Stavrakoudis, D., Gitas, I.Z., Zalidis, G., De Vocht, A. Effects of Flight and Smoothing Parameters on the Detection of Taxus and Olive Trees with UAV-Borne Imagery. Drones, 6(8), 197 [[Link]](https://www.mdpi.com/2504-446X/6/8/197)
 
 * 48 - Van Passel, J., de Keersmaecker, W., Bernardino, P. N., Jing, X., Umlauf, N., **Van Meerbeek, K.**, & Somers, B. Climatic legacy effects on the drought response of the Amazon rainforest. Global Change Biology, 28(19): 5808-5819 [[Link]](https://doi.org/10.1111/gcb.16336)
 
