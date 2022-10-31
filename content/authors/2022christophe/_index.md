@@ -31,7 +31,7 @@ interests:
 social:
 - icon: orcid
   icon_pack: ai
-  link: [https://orcid.org/0000-0003-4633-1473](https://orcid.org/0000-0002-5153-9351)
+  link: https://orcid.org/0000-0002-5153-9351
 - icon: envelope
   icon_pack: fas
   link: 'mailto:christophe.metsu@kuleuven.be'
