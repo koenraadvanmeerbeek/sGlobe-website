@@ -1,12 +1,11 @@
 +++
 # Project title.
-title = "Microclimate & genomics-informed SDM"
-
+title = "Microclimate & genomics in SDMs"
 # Date this page was created.
 date = 2022-10-04T00:00:00
 
 # Project summary to display on homepage.
-summary = "The role of microclimate, dispersal and adaptbility in species (re)distributions"
+summary = "The role of microclimate, dispersal and adaptability in species (re)distributions"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
