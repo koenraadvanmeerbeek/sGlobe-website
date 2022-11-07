@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Microclimate & genomics-informed SDMs"
+title = "Microclimate & genomics-informed SDM"
 
 # Date this page was created.
 date = 2022-10-04T00:00:00
