@@ -1,5 +1,5 @@
  ---
-title: "Climatic legacy effects on the drought response of the Amazon rainforest"
+title: "Disentangling drivers of litter decomposition in a multi-continent network of tree diversity experiments"
 authors:
 - Desie, E.
 - Zuo, J.
